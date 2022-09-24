@@ -322,44 +322,32 @@
       ""
     ],
     [
-      "39433e8b-30b9-44be-8001-cc0579e3528d",
+      "922c0b39-92cb-4463-9d8d-3032074eda8e",
       "Microcontrolador"
     ],
     [
-      "5956cb71-0406-4b08-8af8-1bdf9bfd6502",
+      "aa68080b-efaa-40f4-b3b3-094ea26c340f",
       "Entradas"
     ],
     [
-      "6789a9da-9893-4126-86ae-b0280ea616e0",
-      "Fuentes"
-    ],
-    [
-      "d69763e8-9a90-4e9b-a920-92fec0aeb189",
+      "d4a29e53-7521-418f-a805-770ff6de9bd3",
       "Filtrado"
     ],
     [
-      "b763e22d-f8c8-41b9-bcf7-9b5ab5d25da9",
-      "Rele_1"
-    ],
-    [
-      "b47a20aa-eb34-4145-a72d-b3dac59fdda6",
-      "Interfaces_GPIO"
-    ],
-    [
-      "bb25bdf6-e0ac-4c27-8dad-62052e16e592",
+      "9f01c8e0-a430-474f-844d-8642116cb94d",
       "Salidas"
+    ],
+    [
+      "5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8",
+      "Fuentes"
+    ],
+    [
+      "beef3009-7cac-480a-8e77-cea9adcd939b",
+      "Adaptacion_tension_señales"
     ],
     [
       "da589989-5b6d-4c38-8386-8c7fc4055787",
       "Rele_3"
-    ],
-    [
-      "3024c038-ea72-452c-8901-aa826d8f86a2",
-      "Rele_4"
-    ],
-    [
-      "55de91aa-6425-4a53-86c3-3da2d93cf5f7",
-      "Rele_5"
     ],
     [
       "e2bf4348-9ea5-4528-8468-d674fa0cde1b",
@@ -372,6 +360,22 @@
     [
       "a82357cd-e2ec-4aca-9337-b0bba3852676",
       "Rele_7"
+    ],
+    [
+      "55de91aa-6425-4a53-86c3-3da2d93cf5f7",
+      "Rele_5"
+    ],
+    [
+      "3024c038-ea72-452c-8901-aa826d8f86a2",
+      "Rele_4"
+    ],
+    [
+      "b763e22d-f8c8-41b9-bcf7-9b5ab5d25da9",
+      "Rele_1"
+    ],
+    [
+      "b47a20aa-eb34-4145-a72d-b3dac59fdda6",
+      "Interfaces_GPIO"
     ]
   ],
   "text_variables": {}
