@@ -346,36 +346,36 @@
       "Adaptacion_tension_señales"
     ],
     [
-      "da589989-5b6d-4c38-8386-8c7fc4055787",
-      "Rele_3"
-    ],
-    [
-      "e2bf4348-9ea5-4528-8468-d674fa0cde1b",
-      "Rele_6"
-    ],
-    [
-      "77a03013-5b64-4c44-bb5a-7b74934dedcd",
-      "Rele_2"
-    ],
-    [
-      "a82357cd-e2ec-4aca-9337-b0bba3852676",
-      "Rele_7"
-    ],
-    [
-      "55de91aa-6425-4a53-86c3-3da2d93cf5f7",
-      "Rele_5"
-    ],
-    [
-      "3024c038-ea72-452c-8901-aa826d8f86a2",
+      "aa0e661d-3ba8-4445-a4f5-76063181c285",
       "Rele_4"
     ],
     [
-      "b763e22d-f8c8-41b9-bcf7-9b5ab5d25da9",
+      "f3b8f6c8-bca5-47cf-bacf-a7218a30936d",
+      "Rele_7"
+    ],
+    [
+      "3611aeef-6822-4fd4-9b88-c39fc250099d",
       "Rele_1"
+    ],
+    [
+      "4f3840fd-6320-43d8-ade5-75c93b3baea9",
+      "Rele_5"
+    ],
+    [
+      "e80d88e1-e70a-4f91-9899-78c32fabfa3d",
+      "Rele_2"
     ],
     [
       "b47a20aa-eb34-4145-a72d-b3dac59fdda6",
       "Interfaces_GPIO"
+    ],
+    [
+      "eebf6e46-c4e6-4653-a738-8dbeec0c07bc",
+      "Rele_3"
+    ],
+    [
+      "c0f213f3-1037-472b-81b9-7812041a08ba",
+      "Rele_6"
     ]
   ],
   "text_variables": {}
