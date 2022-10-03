@@ -1,0 +1,2540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Laptop\Documents\KiCad Projects\Proyecto_Sistema_Automatizacion_huerta_NFT\PCB_Prototipo_Proyecto_Final\ProyectoFinal_PCB_Prototipo\PCB_Prototipo_Proyecto_Final.kicad_sch</source>
+    <date>10/3/2022 3:54:53 PM</date>
+    <tool>Eeschema (6.0.7)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>PCB_Prototipo_Proyecto_Final.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Microcontrolador/" tstamps="/922c0b39-92cb-4463-9d8d-3032074eda8e/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Microcontrolador.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Entradas/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Entradas.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Filtrado.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/Salidas/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Salidas.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/Fuentes/" tstamps="/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Fuentes.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/Microcontrolador/Adaptacion_tension_señales/" tstamps="/922c0b39-92cb-4463-9d8d-3032074eda8e/beef3009-7cac-480a-8e77-cea9adcd939b/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Adaptacion_tension_señales.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/Salidas/Rele_4/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/aa0e661d-3ba8-4445-a4f5-76063181c285/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Rele_4.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="9" name="/Salidas/Rele_7/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/f3b8f6c8-bca5-47cf-bacf-a7218a30936d/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Rele_7.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="10" name="/Salidas/Rele_1/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/3611aeef-6822-4fd4-9b88-c39fc250099d/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Rele_1.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="11" name="/Salidas/Rele_5/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/4f3840fd-6320-43d8-ade5-75c93b3baea9/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Rele_5.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="12" name="/Salidas/Rele_2/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/e80d88e1-e70a-4f91-9899-78c32fabfa3d/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Rele_2.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="13" name="/Microcontrolador/Interfaces_GPIO/" tstamps="/922c0b39-92cb-4463-9d8d-3032074eda8e/b47a20aa-eb34-4145-a72d-b3dac59fdda6/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Interfaces_GPIO.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="14" name="/Salidas/Rele_3/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/eebf6e46-c4e6-4653-a738-8dbeec0c07bc/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Rele_3.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="15" name="/Salidas/Rele_6/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/c0f213f3-1037-472b-81b9-7812041a08ba/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Rele_6.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>VIN</value>
+      <footprint>TB002-500-02BE:TB00250002BE</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB_Prototipo_Proyecto_Final.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0576404-cb4a-49f6-90f5-cb8b3d39ab54</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x15</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x15" description="Generic connector, single row, 01x15, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Microcontrolador"/>
+      <property name="Sheetfile" value="Microcontrolador.kicad_sch"/>
+      <sheetpath names="/Microcontrolador/" tstamps="/922c0b39-92cb-4463-9d8d-3032074eda8e/"/>
+      <tstamps>ceaa7ae2-f24e-4663-81f0-45d9e5b0e51e</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x15</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x15" description="Generic connector, single row, 01x15, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Microcontrolador"/>
+      <property name="Sheetfile" value="Microcontrolador.kicad_sch"/>
+      <sheetpath names="/Microcontrolador/" tstamps="/922c0b39-92cb-4463-9d8d-3032074eda8e/"/>
+      <tstamps>a5472214-5301-44d4-a09a-15965a4cb03f</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>MCP6486T-E_OT</value>
+      <footprint>MCP6486T-E_OT:MCP6486RT-E&amp;slash_OT</footprint>
+      <datasheet>https://ww1.microchip.com/downloads/aemDocuments/documents/MSLD/ProductDocuments/DataSheets/MCP6486-Family-Data-Sheet-DS20006679A.pdf</datasheet>
+      <fields>
+        <field name="Description">10 MHz Op Amp with EMI Filtering</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Microchip</field>
+        <field name="Manufacturer_Part_Number">MCP6486T-E/OT</field>
+        <field name="Mouser Part Number">494-MCP6486T-E/OT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/MCP6486T-E-OT?qs=tlsG%2FOw5FFgg6%2FTtnB49Jg%3D%3D</field>
+      </fields>
+      <libsource lib="MCP6486T-E{slash}OT" part="MCP6486T-E_OT" description="10 MHz Op Amp with EMI Filtering"/>
+      <property name="Description" value="10 MHz Op Amp with EMI Filtering"/>
+      <property name="Height" value="1.45"/>
+      <property name="Manufacturer_Name" value="Microchip"/>
+      <property name="Manufacturer_Part_Number" value="MCP6486T-E/OT"/>
+      <property name="Mouser Part Number" value="494-MCP6486T-E/OT"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/MCP6486T-E-OT?qs=tlsG%2FOw5FFgg6%2FTtnB49Jg%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Entradas"/>
+      <property name="Sheetfile" value="Entradas.kicad_sch"/>
+      <sheetpath names="/Entradas/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/"/>
+      <tstamps>c0cfa6fa-a0c7-497c-ac2e-21e840ad96c4</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Terminal_Sensor_pH</value>
+      <footprint>TB001-500-04BE:TB00150004BE</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Entradas"/>
+      <property name="Sheetfile" value="Entradas.kicad_sch"/>
+      <sheetpath names="/Entradas/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/"/>
+      <tstamps>5d9a8247-729d-4386-8b3a-ec2849dcae66</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Terminal_Sensor_Temp_Sumerg</value>
+      <footprint>TB002-500-03BE:SHDR3W100P0X500_1X3_1500X760X1000P</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Entradas"/>
+      <property name="Sheetfile" value="Entradas.kicad_sch"/>
+      <sheetpath names="/Entradas/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/"/>
+      <tstamps>4fb485a4-c38d-42dc-a3e0-b0b5b40e15d2</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Terminal_Sensor_TDS</value>
+      <footprint>TB002-500-03BE:SHDR3W100P0X500_1X3_1500X760X1000P</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Entradas"/>
+      <property name="Sheetfile" value="Entradas.kicad_sch"/>
+      <sheetpath names="/Entradas/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/"/>
+      <tstamps>a3a53d02-3443-47aa-9d5d-767269d8f63a</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Terminal_Sensor_Temp_Sumerg</value>
+      <footprint>TB002-500-03BE:SHDR3W100P0X500_1X3_1500X760X1000P</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Entradas"/>
+      <property name="Sheetfile" value="Entradas.kicad_sch"/>
+      <sheetpath names="/Entradas/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/"/>
+      <tstamps>03bb1a6b-b2cc-49dc-80dd-62b09dbb778f</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>Terminal_Sensor_Iluminacion</value>
+      <footprint>TB002-500-03BE:SHDR3W100P0X500_1X3_1500X760X1000P</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Entradas"/>
+      <property name="Sheetfile" value="Entradas.kicad_sch"/>
+      <sheetpath names="/Entradas/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/"/>
+      <tstamps>4603d898-936e-4133-a9c2-56b7a8055f0e</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>Terminal_Sensor_Temp_y_Hum</value>
+      <footprint>TB002-500-03BE:SHDR3W100P0X500_1X3_1500X760X1000P</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Entradas"/>
+      <property name="Sheetfile" value="Entradas.kicad_sch"/>
+      <sheetpath names="/Entradas/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/"/>
+      <tstamps>0ea42a5e-ffa9-4e3d-999d-caac4ad60040</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>Terminal_Sensores_Nivel</value>
+      <footprint>TB002-500-15BE:CUI_TB002-500-15BE</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x15" description="Generic screw terminal, single row, 01x15, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Entradas"/>
+      <property name="Sheetfile" value="Entradas.kicad_sch"/>
+      <sheetpath names="/Entradas/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/"/>
+      <tstamps>edf6fc90-7414-4de2-8c25-5663be24b962</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>Terminal_Sensor_Flujo</value>
+      <footprint>TB002-500-03BE:SHDR3W100P0X500_1X3_1500X760X1000P</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Entradas"/>
+      <property name="Sheetfile" value="Entradas.kicad_sch"/>
+      <sheetpath names="/Entradas/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/"/>
+      <tstamps>1fa236e3-5efc-4549-b79d-5803df61d751</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>549, 1/4W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Entradas"/>
+      <property name="Sheetfile" value="Entradas.kicad_sch"/>
+      <sheetpath names="/Entradas/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/"/>
+      <tstamps>76bb75d0-e5c4-4dbb-bee6-8050e80f5e3d</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>1K, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Entradas"/>
+      <property name="Sheetfile" value="Entradas.kicad_sch"/>
+      <sheetpath names="/Entradas/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/"/>
+      <tstamps>d00dd033-f28e-4e20-9c10-dceda0843c40</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1K, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Entradas"/>
+      <property name="Sheetfile" value="Entradas.kicad_sch"/>
+      <sheetpath names="/Entradas/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/"/>
+      <tstamps>9da493ce-6af6-4f52-a8d6-df6a42a6ec1a</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>4,7K, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Entradas"/>
+      <property name="Sheetfile" value="Entradas.kicad_sch"/>
+      <sheetpath names="/Entradas/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/"/>
+      <tstamps>747a0d41-5866-4797-8f9f-2456b67dca26</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>4,7K, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Entradas"/>
+      <property name="Sheetfile" value="Entradas.kicad_sch"/>
+      <sheetpath names="/Entradas/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/"/>
+      <tstamps>7dbfe91b-6909-4cea-9140-b0bad6b788fd</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>1 nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>3c3263dc-93b5-4df0-b6b2-071cab9f1b2c</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1 nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>82ccc858-b891-496a-bd16-4bc4d32affee</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1 nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>8398a447-1dc2-492a-845e-eb5ad93ffca4</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1 nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>7b4f5887-e890-456b-8a6d-e632cc471ed8</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1 nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>e38d6215-6296-4f6c-bd29-9b6385b4c114</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1 nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>ed904563-0ad1-4ef8-a6be-babeac2c7696</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>1 nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>4239e543-f7db-4e9d-9629-fed4d0804f6f</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>1 nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>f62f4b3d-d781-49cb-a2c5-f99529e2cdac</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1 nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>b0e93591-6f0c-4788-992f-64a81be6c588</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>1 nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>bcac90f6-5d50-44ba-982a-f9b5428abaea</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>1 nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>0055dfa1-55ad-4bb8-ab05-af43cf4d2950</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>1 nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>0455d76b-2119-4ae9-9551-2229f08875fb</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>27, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>f13163e7-ab46-4214-9c4e-de3b77dbc8d1</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>27, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>040e15dc-4c3f-45f8-b26b-06afa5e86f66</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>27, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>b14d39db-e798-4088-9a49-a179a85e7e7e</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>27, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>68bb7f70-754b-4e61-80df-f917511b1e3b</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>27, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>e1f768f0-273d-4a29-a810-7ec0e615d039</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>27, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>b927e52f-2822-4c6a-a755-9686b93e2c2c</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>27, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>f03b44f5-e48d-4341-8602-c956ce2e2187</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>27, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>a5e98b9e-33ff-4c36-805c-4d6f1b3212cf</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>27, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>35babd3b-b448-40cb-8815-5210e03a68bf</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>27, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>00322ce9-495d-42cb-ad08-475d67bfabbb</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>27, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>0465b439-5bef-4ed1-a0c4-cd4e1db22bac</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>27, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>d0ee6193-e4fd-4722-99ec-4186de5c7ca6</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>27, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>c58084e8-ea3c-4edf-9ec8-c92e58222efc</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>27, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>95c70a32-c296-45ce-a172-a91a63447ca8</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>27, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>a90f580e-dc40-46f6-baba-3617c4b316db</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>27, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>a03aab15-4773-4efc-b55d-57393bcd7725</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>27, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>950b14d5-aa8c-40c3-9203-0f813fad2b47</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>27, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>bd69d77b-e3ba-44c1-b7c6-db93266626a8</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>27, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Filtrado"/>
+      <property name="Sheetfile" value="Filtrado.kicad_sch"/>
+      <sheetpath names="/Entradas/Filtrado/" tstamps="/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/"/>
+      <tstamps>122082bf-2577-475e-9db4-eaef7d91c94a</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100 nF, 50V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Fuentes"/>
+      <property name="Sheetfile" value="Fuentes.kicad_sch"/>
+      <sheetpath names="/Fuentes/" tstamps="/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/"/>
+      <tstamps>760ec49a-6d99-4b24-acc6-3d4b554f0b85</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>470 uF, 50V</value>
+      <footprint>UUG1H471MNQ6MS:CAPAE1710X1750N</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value="Fuentes"/>
+      <property name="Sheetfile" value="Fuentes.kicad_sch"/>
+      <sheetpath names="/Fuentes/" tstamps="/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/"/>
+      <tstamps>12fc8e7b-24ff-4986-8408-7534acd8b9e1</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>220 uF, 10V</value>
+      <footprint>TPSE227K010R0100:TPSE227K016R0100V</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value="Fuentes"/>
+      <property name="Sheetfile" value="Fuentes.kicad_sch"/>
+      <sheetpath names="/Fuentes/" tstamps="/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/"/>
+      <tstamps>af5e945d-6e41-491f-943f-f54ce556d497</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>100 nF, 50V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Fuentes"/>
+      <property name="Sheetfile" value="Fuentes.kicad_sch"/>
+      <sheetpath names="/Fuentes/" tstamps="/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/"/>
+      <tstamps>016242b2-7b71-4fed-a00a-3fe8651f8cd2</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>10 uF, 10V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value="Fuentes"/>
+      <property name="Sheetfile" value="Fuentes.kicad_sch"/>
+      <sheetpath names="/Fuentes/" tstamps="/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/"/>
+      <tstamps>90a1e379-e927-402f-93e2-ab05f16b7c25</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>10 uF, 10V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value="Fuentes"/>
+      <property name="Sheetfile" value="Fuentes.kicad_sch"/>
+      <sheetpath names="/Fuentes/" tstamps="/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/"/>
+      <tstamps>80c03b1b-85b6-419f-9d01-74a708f6cf15</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>PMEG060V050EPD</value>
+      <footprint>Package_TO_SOT_SMD:Nexperia_CFP15_SOT-1289</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/PMEG060V050EPD.pdf</datasheet>
+      <libsource lib="Diode" part="PMEG060V050EPD" description="60V, 5A low Vf MEGA Schottky barrier rectifier, SOT-1289"/>
+      <property name="Sheetname" value="Fuentes"/>
+      <property name="Sheetfile" value="Fuentes.kicad_sch"/>
+      <sheetpath names="/Fuentes/" tstamps="/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/"/>
+      <tstamps>6b7a025a-cae3-45e2-ad20-b9bb73d13df9</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>47 uH</value>
+      <footprint>7447709470:WE-PD_1260_1245_1280_121054</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value="Fuentes"/>
+      <property name="Sheetfile" value="Fuentes.kicad_sch"/>
+      <sheetpath names="/Fuentes/" tstamps="/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/"/>
+      <tstamps>6a7081b7-501a-4add-a470-2c0d3420af12</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>LM2596S-5</value>
+      <footprint>Package_TO_SOT_SMD:TO-263-5_TabPin3</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm2596.pdf</datasheet>
+      <libsource lib="Regulator_Switching" part="LM2596S-5" description="5V 3A Step-Down Voltage Regulator, TO-263"/>
+      <property name="Sheetname" value="Fuentes"/>
+      <property name="Sheetfile" value="Fuentes.kicad_sch"/>
+      <sheetpath names="/Fuentes/" tstamps="/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/"/>
+      <tstamps>9bc164e6-e873-47da-a2ca-c09dd64582a2</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>LM1117-3.3</value>
+      <footprint>LM1117MPX-33NOPB:SOT230P700X180-4N</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm1117.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="LM1117-3.3" description="800mA Low-Dropout Linear Regulator, 3.3V fixed output, TO-220/TO-252/TO-263/SOT-223"/>
+      <property name="Sheetname" value="Fuentes"/>
+      <property name="Sheetfile" value="Fuentes.kicad_sch"/>
+      <sheetpath names="/Fuentes/" tstamps="/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/"/>
+      <tstamps>1d996468-537d-448d-b463-fef17f9a74b3</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>10 uF, 10V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value="Adaptacion_tension_señales"/>
+      <property name="Sheetfile" value="Adaptacion_tension_señales.kicad_sch"/>
+      <sheetpath names="/Microcontrolador/Adaptacion_tension_señales/" tstamps="/922c0b39-92cb-4463-9d8d-3032074eda8e/beef3009-7cac-480a-8e77-cea9adcd939b/"/>
+      <tstamps>6e84850a-6d1e-4d79-821f-a9617bff48c8</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>100 nF, 50V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Adaptacion_tension_señales"/>
+      <property name="Sheetfile" value="Adaptacion_tension_señales.kicad_sch"/>
+      <sheetpath names="/Microcontrolador/Adaptacion_tension_señales/" tstamps="/922c0b39-92cb-4463-9d8d-3032074eda8e/beef3009-7cac-480a-8e77-cea9adcd939b/"/>
+      <tstamps>0d086448-b22c-40cc-b22c-467b29ad172a</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>10 uF, 10V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value="Adaptacion_tension_señales"/>
+      <property name="Sheetfile" value="Adaptacion_tension_señales.kicad_sch"/>
+      <sheetpath names="/Microcontrolador/Adaptacion_tension_señales/" tstamps="/922c0b39-92cb-4463-9d8d-3032074eda8e/beef3009-7cac-480a-8e77-cea9adcd939b/"/>
+      <tstamps>29400d56-5f51-4a22-a3e1-09278bd2a79e</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>100 nF, 50V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Adaptacion_tension_señales"/>
+      <property name="Sheetfile" value="Adaptacion_tension_señales.kicad_sch"/>
+      <sheetpath names="/Microcontrolador/Adaptacion_tension_señales/" tstamps="/922c0b39-92cb-4463-9d8d-3032074eda8e/beef3009-7cac-480a-8e77-cea9adcd939b/"/>
+      <tstamps>0022dec6-d97e-40ae-a8d2-329588a12f4a</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>NXB0108PW-Q100J</value>
+      <footprint>Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm</footprint>
+      <libsource lib="NXB0108PWJ" part="NXB0108PW-Q100J" description=""/>
+      <property name="Sheetname" value="Adaptacion_tension_señales"/>
+      <property name="Sheetfile" value="Adaptacion_tension_señales.kicad_sch"/>
+      <sheetpath names="/Microcontrolador/Adaptacion_tension_señales/" tstamps="/922c0b39-92cb-4463-9d8d-3032074eda8e/beef3009-7cac-480a-8e77-cea9adcd939b/"/>
+      <tstamps>73860c6d-95c6-4dc2-a840-e73a13a82e75</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>FM4003-W</value>
+      <footprint>FM4003W:DIOM5025X231N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/FM4003-W.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">FM4003-W</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/fm4003-w/rectron</field>
+        <field name="Description">Rectifiers 1A 200V GP</field>
+        <field name="Height">2.31</field>
+        <field name="Manufacturer_Name">Rectron</field>
+        <field name="Manufacturer_Part_Number">FM4003-W</field>
+        <field name="Mouser Part Number">583-FM4003-W</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Rectron/FM4003-W/?qs=5h8Q3Z7TNRlJu6QU92Ho0w%3D%3D</field>
+      </fields>
+      <libsource lib="FM4003-W" part="FM4003-W" description="Rectifiers 1A 200V GP"/>
+      <property name="Description" value="Rectifiers 1A 200V GP"/>
+      <property name="Height" value="2.31"/>
+      <property name="Manufacturer_Name" value="Rectron"/>
+      <property name="Manufacturer_Part_Number" value="FM4003-W"/>
+      <property name="Mouser Part Number" value="583-FM4003-W"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Rectron/FM4003-W/?qs=5h8Q3Z7TNRlJu6QU92Ho0w%3D%3D"/>
+      <property name="Arrow Part Number" value="FM4003-W"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/fm4003-w/rectron"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Rele_4"/>
+      <property name="Sheetfile" value="Rele_4.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_4/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/aa0e661d-3ba8-4445-a4f5-76063181c285/"/>
+      <tstamps>f18bd277-03e3-4f72-afc6-1e8887a5ffcd</tstamps>
+    </comp>
+    <comp ref="J12">
+      <value>Rele_4</value>
+      <footprint>TB002-500-02BE:TB00250002BE</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Rele_4"/>
+      <property name="Sheetfile" value="Rele_4.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_4/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/aa0e661d-3ba8-4445-a4f5-76063181c285/"/>
+      <tstamps>dd2449c6-9c35-48aa-b702-118762905289</tstamps>
+    </comp>
+    <comp ref="K1">
+      <value>SRD-05VDC-SL-C</value>
+      <footprint>SRD-05VDC-SL-C-Version_2:RELAY_SRD-05VDC-SL-C</footprint>
+      <fields>
+        <field name="MANUFACTURER">SONGLE RELAY</field>
+        <field name="STANDARD">IPC-7251</field>
+      </fields>
+      <libsource lib="SRD-05VDC-SL-C" part="SRD-05VDC-SL-C" description=""/>
+      <property name="MANUFACTURER" value="SONGLE RELAY"/>
+      <property name="STANDARD" value="IPC-7251"/>
+      <property name="Sheetname" value="Rele_4"/>
+      <property name="Sheetfile" value="Rele_4.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_4/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/aa0e661d-3ba8-4445-a4f5-76063181c285/"/>
+      <tstamps>f0557562-ab20-4bbe-8a73-9dc88ae75261</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>PMBT3904,235</value>
+      <footprint>PMBT3904,235:SOT95P230X110-3N</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/PMBT3904.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">PMBT3904,235</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/pmbt3904235/nexperia?region=nac</field>
+        <field name="Description">PMBT3904 - NPN switching transistor</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Nexperia</field>
+        <field name="Manufacturer_Part_Number">PMBT3904,235</field>
+        <field name="Mouser Part Number">771-PMBT3904235</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Nexperia/PMBT3904235?qs=LOCUfHb8d9uziIfl4fmvZg%3D%3D</field>
+      </fields>
+      <libsource lib="PMBT3904,235" part="PMBT3904,235" description="PMBT3904 - NPN switching transistor"/>
+      <property name="Description" value="PMBT3904 - NPN switching transistor"/>
+      <property name="Height" value="1.1"/>
+      <property name="Manufacturer_Name" value="Nexperia"/>
+      <property name="Manufacturer_Part_Number" value="PMBT3904,235"/>
+      <property name="Mouser Part Number" value="771-PMBT3904235"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Nexperia/PMBT3904235?qs=LOCUfHb8d9uziIfl4fmvZg%3D%3D"/>
+      <property name="Arrow Part Number" value="PMBT3904,235"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/pmbt3904235/nexperia?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Rele_4"/>
+      <property name="Sheetfile" value="Rele_4.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_4/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/aa0e661d-3ba8-4445-a4f5-76063181c285/"/>
+      <tstamps>bcff6442-a36b-45f6-9b58-3f53e9b67788</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>820, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Rele_4"/>
+      <property name="Sheetfile" value="Rele_4.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_4/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/aa0e661d-3ba8-4445-a4f5-76063181c285/"/>
+      <tstamps>7655322a-0ed3-42dc-a89f-e99fa3d3bf91</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>FM4003-W</value>
+      <footprint>FM4003W:DIOM5025X231N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/FM4003-W.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">FM4003-W</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/fm4003-w/rectron</field>
+        <field name="Description">Rectifiers 1A 200V GP</field>
+        <field name="Height">2.31</field>
+        <field name="Manufacturer_Name">Rectron</field>
+        <field name="Manufacturer_Part_Number">FM4003-W</field>
+        <field name="Mouser Part Number">583-FM4003-W</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Rectron/FM4003-W/?qs=5h8Q3Z7TNRlJu6QU92Ho0w%3D%3D</field>
+      </fields>
+      <libsource lib="FM4003-W" part="FM4003-W" description="Rectifiers 1A 200V GP"/>
+      <property name="Description" value="Rectifiers 1A 200V GP"/>
+      <property name="Height" value="2.31"/>
+      <property name="Manufacturer_Name" value="Rectron"/>
+      <property name="Manufacturer_Part_Number" value="FM4003-W"/>
+      <property name="Mouser Part Number" value="583-FM4003-W"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Rectron/FM4003-W/?qs=5h8Q3Z7TNRlJu6QU92Ho0w%3D%3D"/>
+      <property name="Arrow Part Number" value="FM4003-W"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/fm4003-w/rectron"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Rele_7"/>
+      <property name="Sheetfile" value="Rele_7.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_7/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/f3b8f6c8-bca5-47cf-bacf-a7218a30936d/"/>
+      <tstamps>4a5a2aba-ce46-4afb-ba4f-b119957e8aea</tstamps>
+    </comp>
+    <comp ref="J13">
+      <value>Rele_7</value>
+      <footprint>TB002-500-02BE:TB00250002BE</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Rele_7"/>
+      <property name="Sheetfile" value="Rele_7.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_7/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/f3b8f6c8-bca5-47cf-bacf-a7218a30936d/"/>
+      <tstamps>7b97b8f1-aafc-4eca-8fc5-287f4d674236</tstamps>
+    </comp>
+    <comp ref="K2">
+      <value>SRD-05VDC-SL-C</value>
+      <footprint>SRD-05VDC-SL-C-Version_2:RELAY_SRD-05VDC-SL-C</footprint>
+      <fields>
+        <field name="MANUFACTURER">SONGLE RELAY</field>
+        <field name="STANDARD">IPC-7251</field>
+      </fields>
+      <libsource lib="SRD-05VDC-SL-C" part="SRD-05VDC-SL-C" description=""/>
+      <property name="MANUFACTURER" value="SONGLE RELAY"/>
+      <property name="STANDARD" value="IPC-7251"/>
+      <property name="Sheetname" value="Rele_7"/>
+      <property name="Sheetfile" value="Rele_7.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_7/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/f3b8f6c8-bca5-47cf-bacf-a7218a30936d/"/>
+      <tstamps>e597c44c-e110-4633-ac95-b1a3b62e6ddb</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>PMBT3904,235</value>
+      <footprint>PMBT3904,235:SOT95P230X110-3N</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/PMBT3904.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">PMBT3904,235</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/pmbt3904235/nexperia?region=nac</field>
+        <field name="Description">PMBT3904 - NPN switching transistor</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Nexperia</field>
+        <field name="Manufacturer_Part_Number">PMBT3904,235</field>
+        <field name="Mouser Part Number">771-PMBT3904235</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Nexperia/PMBT3904235?qs=LOCUfHb8d9uziIfl4fmvZg%3D%3D</field>
+      </fields>
+      <libsource lib="PMBT3904,235" part="PMBT3904,235" description="PMBT3904 - NPN switching transistor"/>
+      <property name="Description" value="PMBT3904 - NPN switching transistor"/>
+      <property name="Height" value="1.1"/>
+      <property name="Manufacturer_Name" value="Nexperia"/>
+      <property name="Manufacturer_Part_Number" value="PMBT3904,235"/>
+      <property name="Mouser Part Number" value="771-PMBT3904235"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Nexperia/PMBT3904235?qs=LOCUfHb8d9uziIfl4fmvZg%3D%3D"/>
+      <property name="Arrow Part Number" value="PMBT3904,235"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/pmbt3904235/nexperia?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Rele_7"/>
+      <property name="Sheetfile" value="Rele_7.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_7/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/f3b8f6c8-bca5-47cf-bacf-a7218a30936d/"/>
+      <tstamps>ee0b5661-f049-45e4-aa35-c8a25347e758</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>820, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Rele_7"/>
+      <property name="Sheetfile" value="Rele_7.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_7/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/f3b8f6c8-bca5-47cf-bacf-a7218a30936d/"/>
+      <tstamps>020e692c-b1a2-4ff3-aadc-d5f7b0b20f10</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>FM4003-W</value>
+      <footprint>FM4003W:DIOM5025X231N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/FM4003-W.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">FM4003-W</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/fm4003-w/rectron</field>
+        <field name="Description">Rectifiers 1A 200V GP</field>
+        <field name="Height">2.31</field>
+        <field name="Manufacturer_Name">Rectron</field>
+        <field name="Manufacturer_Part_Number">FM4003-W</field>
+        <field name="Mouser Part Number">583-FM4003-W</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Rectron/FM4003-W/?qs=5h8Q3Z7TNRlJu6QU92Ho0w%3D%3D</field>
+      </fields>
+      <libsource lib="FM4003-W" part="FM4003-W" description="Rectifiers 1A 200V GP"/>
+      <property name="Description" value="Rectifiers 1A 200V GP"/>
+      <property name="Height" value="2.31"/>
+      <property name="Manufacturer_Name" value="Rectron"/>
+      <property name="Manufacturer_Part_Number" value="FM4003-W"/>
+      <property name="Mouser Part Number" value="583-FM4003-W"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Rectron/FM4003-W/?qs=5h8Q3Z7TNRlJu6QU92Ho0w%3D%3D"/>
+      <property name="Arrow Part Number" value="FM4003-W"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/fm4003-w/rectron"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Rele_1"/>
+      <property name="Sheetfile" value="Rele_1.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_1/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/3611aeef-6822-4fd4-9b88-c39fc250099d/"/>
+      <tstamps>1f29f715-22fe-4f08-b0f5-1df7c2980af5</tstamps>
+    </comp>
+    <comp ref="J14">
+      <value>Rele_1</value>
+      <footprint>TB002-500-02BE:TB00250002BE</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Rele_1"/>
+      <property name="Sheetfile" value="Rele_1.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_1/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/3611aeef-6822-4fd4-9b88-c39fc250099d/"/>
+      <tstamps>882fe87c-e848-4687-8ac1-5cb7279a9e7d</tstamps>
+    </comp>
+    <comp ref="K3">
+      <value>SRD-05VDC-SL-C</value>
+      <footprint>SRD-05VDC-SL-C-Version_2:RELAY_SRD-05VDC-SL-C</footprint>
+      <fields>
+        <field name="MANUFACTURER">SONGLE RELAY</field>
+        <field name="STANDARD">IPC-7251</field>
+      </fields>
+      <libsource lib="SRD-05VDC-SL-C" part="SRD-05VDC-SL-C" description=""/>
+      <property name="MANUFACTURER" value="SONGLE RELAY"/>
+      <property name="STANDARD" value="IPC-7251"/>
+      <property name="Sheetname" value="Rele_1"/>
+      <property name="Sheetfile" value="Rele_1.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_1/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/3611aeef-6822-4fd4-9b88-c39fc250099d/"/>
+      <tstamps>45a4a886-0763-47cd-9da0-78975f2d9bd8</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>PMBT3904,235</value>
+      <footprint>PMBT3904,235:SOT95P230X110-3N</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/PMBT3904.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">PMBT3904,235</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/pmbt3904235/nexperia?region=nac</field>
+        <field name="Description">PMBT3904 - NPN switching transistor</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Nexperia</field>
+        <field name="Manufacturer_Part_Number">PMBT3904,235</field>
+        <field name="Mouser Part Number">771-PMBT3904235</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Nexperia/PMBT3904235?qs=LOCUfHb8d9uziIfl4fmvZg%3D%3D</field>
+      </fields>
+      <libsource lib="PMBT3904,235" part="PMBT3904,235" description="PMBT3904 - NPN switching transistor"/>
+      <property name="Description" value="PMBT3904 - NPN switching transistor"/>
+      <property name="Height" value="1.1"/>
+      <property name="Manufacturer_Name" value="Nexperia"/>
+      <property name="Manufacturer_Part_Number" value="PMBT3904,235"/>
+      <property name="Mouser Part Number" value="771-PMBT3904235"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Nexperia/PMBT3904235?qs=LOCUfHb8d9uziIfl4fmvZg%3D%3D"/>
+      <property name="Arrow Part Number" value="PMBT3904,235"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/pmbt3904235/nexperia?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Rele_1"/>
+      <property name="Sheetfile" value="Rele_1.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_1/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/3611aeef-6822-4fd4-9b88-c39fc250099d/"/>
+      <tstamps>9de17a47-2913-4c0b-9b6d-8721ae915911</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>820, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Rele_1"/>
+      <property name="Sheetfile" value="Rele_1.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_1/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/3611aeef-6822-4fd4-9b88-c39fc250099d/"/>
+      <tstamps>bfdc8106-abbd-46ba-8cb3-e7627a1fa4f4</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>FM4003-W</value>
+      <footprint>FM4003W:DIOM5025X231N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/FM4003-W.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">FM4003-W</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/fm4003-w/rectron</field>
+        <field name="Description">Rectifiers 1A 200V GP</field>
+        <field name="Height">2.31</field>
+        <field name="Manufacturer_Name">Rectron</field>
+        <field name="Manufacturer_Part_Number">FM4003-W</field>
+        <field name="Mouser Part Number">583-FM4003-W</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Rectron/FM4003-W/?qs=5h8Q3Z7TNRlJu6QU92Ho0w%3D%3D</field>
+      </fields>
+      <libsource lib="FM4003-W" part="FM4003-W" description="Rectifiers 1A 200V GP"/>
+      <property name="Description" value="Rectifiers 1A 200V GP"/>
+      <property name="Height" value="2.31"/>
+      <property name="Manufacturer_Name" value="Rectron"/>
+      <property name="Manufacturer_Part_Number" value="FM4003-W"/>
+      <property name="Mouser Part Number" value="583-FM4003-W"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Rectron/FM4003-W/?qs=5h8Q3Z7TNRlJu6QU92Ho0w%3D%3D"/>
+      <property name="Arrow Part Number" value="FM4003-W"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/fm4003-w/rectron"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Rele_5"/>
+      <property name="Sheetfile" value="Rele_5.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_5/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/4f3840fd-6320-43d8-ade5-75c93b3baea9/"/>
+      <tstamps>f86fed9c-1fc3-47ba-bc4e-196b8b254bcf</tstamps>
+    </comp>
+    <comp ref="J15">
+      <value>Rele_5</value>
+      <footprint>TB002-500-02BE:TB00250002BE</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Rele_5"/>
+      <property name="Sheetfile" value="Rele_5.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_5/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/4f3840fd-6320-43d8-ade5-75c93b3baea9/"/>
+      <tstamps>d2999f43-d094-473a-9f5e-cc6c3a7cdc4c</tstamps>
+    </comp>
+    <comp ref="K4">
+      <value>SRD-05VDC-SL-C</value>
+      <footprint>SRD-05VDC-SL-C-Version_2:RELAY_SRD-05VDC-SL-C</footprint>
+      <fields>
+        <field name="MANUFACTURER">SONGLE RELAY</field>
+        <field name="STANDARD">IPC-7251</field>
+      </fields>
+      <libsource lib="SRD-05VDC-SL-C" part="SRD-05VDC-SL-C" description=""/>
+      <property name="MANUFACTURER" value="SONGLE RELAY"/>
+      <property name="STANDARD" value="IPC-7251"/>
+      <property name="Sheetname" value="Rele_5"/>
+      <property name="Sheetfile" value="Rele_5.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_5/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/4f3840fd-6320-43d8-ade5-75c93b3baea9/"/>
+      <tstamps>0a3e252d-ab5f-4c16-a97c-656b570022d3</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>PMBT3904,235</value>
+      <footprint>PMBT3904,235:SOT95P230X110-3N</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/PMBT3904.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">PMBT3904,235</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/pmbt3904235/nexperia?region=nac</field>
+        <field name="Description">PMBT3904 - NPN switching transistor</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Nexperia</field>
+        <field name="Manufacturer_Part_Number">PMBT3904,235</field>
+        <field name="Mouser Part Number">771-PMBT3904235</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Nexperia/PMBT3904235?qs=LOCUfHb8d9uziIfl4fmvZg%3D%3D</field>
+      </fields>
+      <libsource lib="PMBT3904,235" part="PMBT3904,235" description="PMBT3904 - NPN switching transistor"/>
+      <property name="Description" value="PMBT3904 - NPN switching transistor"/>
+      <property name="Height" value="1.1"/>
+      <property name="Manufacturer_Name" value="Nexperia"/>
+      <property name="Manufacturer_Part_Number" value="PMBT3904,235"/>
+      <property name="Mouser Part Number" value="771-PMBT3904235"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Nexperia/PMBT3904235?qs=LOCUfHb8d9uziIfl4fmvZg%3D%3D"/>
+      <property name="Arrow Part Number" value="PMBT3904,235"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/pmbt3904235/nexperia?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Rele_5"/>
+      <property name="Sheetfile" value="Rele_5.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_5/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/4f3840fd-6320-43d8-ade5-75c93b3baea9/"/>
+      <tstamps>7b76bb5a-4149-4636-8125-07016dd60c1d</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>820, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Rele_5"/>
+      <property name="Sheetfile" value="Rele_5.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_5/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/4f3840fd-6320-43d8-ade5-75c93b3baea9/"/>
+      <tstamps>b3867b17-9314-435b-9476-16d96ad07259</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>FM4003-W</value>
+      <footprint>FM4003W:DIOM5025X231N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/FM4003-W.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">FM4003-W</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/fm4003-w/rectron</field>
+        <field name="Description">Rectifiers 1A 200V GP</field>
+        <field name="Height">2.31</field>
+        <field name="Manufacturer_Name">Rectron</field>
+        <field name="Manufacturer_Part_Number">FM4003-W</field>
+        <field name="Mouser Part Number">583-FM4003-W</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Rectron/FM4003-W/?qs=5h8Q3Z7TNRlJu6QU92Ho0w%3D%3D</field>
+      </fields>
+      <libsource lib="FM4003-W" part="FM4003-W" description="Rectifiers 1A 200V GP"/>
+      <property name="Description" value="Rectifiers 1A 200V GP"/>
+      <property name="Height" value="2.31"/>
+      <property name="Manufacturer_Name" value="Rectron"/>
+      <property name="Manufacturer_Part_Number" value="FM4003-W"/>
+      <property name="Mouser Part Number" value="583-FM4003-W"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Rectron/FM4003-W/?qs=5h8Q3Z7TNRlJu6QU92Ho0w%3D%3D"/>
+      <property name="Arrow Part Number" value="FM4003-W"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/fm4003-w/rectron"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Rele_2"/>
+      <property name="Sheetfile" value="Rele_2.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_2/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/e80d88e1-e70a-4f91-9899-78c32fabfa3d/"/>
+      <tstamps>152e189b-5dc6-4114-9b59-3a717c497ec0</tstamps>
+    </comp>
+    <comp ref="J16">
+      <value>Rele_2</value>
+      <footprint>TB002-500-02BE:TB00250002BE</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Rele_2"/>
+      <property name="Sheetfile" value="Rele_2.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_2/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/e80d88e1-e70a-4f91-9899-78c32fabfa3d/"/>
+      <tstamps>2e348247-c96a-4302-be45-3b92d5a73ec4</tstamps>
+    </comp>
+    <comp ref="K5">
+      <value>SRD-05VDC-SL-C</value>
+      <footprint>SRD-05VDC-SL-C-Version_2:RELAY_SRD-05VDC-SL-C</footprint>
+      <fields>
+        <field name="MANUFACTURER">SONGLE RELAY</field>
+        <field name="STANDARD">IPC-7251</field>
+      </fields>
+      <libsource lib="SRD-05VDC-SL-C" part="SRD-05VDC-SL-C" description=""/>
+      <property name="MANUFACTURER" value="SONGLE RELAY"/>
+      <property name="STANDARD" value="IPC-7251"/>
+      <property name="Sheetname" value="Rele_2"/>
+      <property name="Sheetfile" value="Rele_2.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_2/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/e80d88e1-e70a-4f91-9899-78c32fabfa3d/"/>
+      <tstamps>9f7b93c7-a889-44a5-836e-91fe67cf8a4e</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>PMBT3904,235</value>
+      <footprint>PMBT3904,235:SOT95P230X110-3N</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/PMBT3904.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">PMBT3904,235</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/pmbt3904235/nexperia?region=nac</field>
+        <field name="Description">PMBT3904 - NPN switching transistor</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Nexperia</field>
+        <field name="Manufacturer_Part_Number">PMBT3904,235</field>
+        <field name="Mouser Part Number">771-PMBT3904235</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Nexperia/PMBT3904235?qs=LOCUfHb8d9uziIfl4fmvZg%3D%3D</field>
+      </fields>
+      <libsource lib="PMBT3904,235" part="PMBT3904,235" description="PMBT3904 - NPN switching transistor"/>
+      <property name="Description" value="PMBT3904 - NPN switching transistor"/>
+      <property name="Height" value="1.1"/>
+      <property name="Manufacturer_Name" value="Nexperia"/>
+      <property name="Manufacturer_Part_Number" value="PMBT3904,235"/>
+      <property name="Mouser Part Number" value="771-PMBT3904235"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Nexperia/PMBT3904235?qs=LOCUfHb8d9uziIfl4fmvZg%3D%3D"/>
+      <property name="Arrow Part Number" value="PMBT3904,235"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/pmbt3904235/nexperia?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Rele_2"/>
+      <property name="Sheetfile" value="Rele_2.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_2/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/e80d88e1-e70a-4f91-9899-78c32fabfa3d/"/>
+      <tstamps>c916a8b2-a048-4592-a34c-baf0e7cc358f</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>820, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Rele_2"/>
+      <property name="Sheetfile" value="Rele_2.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_2/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/e80d88e1-e70a-4f91-9899-78c32fabfa3d/"/>
+      <tstamps>ea6604a4-6183-4ef0-8695-1341f39f667d</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>10 uF, 10V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value="Interfaces_GPIO"/>
+      <property name="Sheetfile" value="Interfaces_GPIO.kicad_sch"/>
+      <sheetpath names="/Microcontrolador/Interfaces_GPIO/" tstamps="/922c0b39-92cb-4463-9d8d-3032074eda8e/b47a20aa-eb34-4145-a72d-b3dac59fdda6/"/>
+      <tstamps>864493dd-a5c1-449b-b121-0ae24d08c3eb</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>100 nF, 50V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Interfaces_GPIO"/>
+      <property name="Sheetfile" value="Interfaces_GPIO.kicad_sch"/>
+      <sheetpath names="/Microcontrolador/Interfaces_GPIO/" tstamps="/922c0b39-92cb-4463-9d8d-3032074eda8e/b47a20aa-eb34-4145-a72d-b3dac59fdda6/"/>
+      <tstamps>2ec62990-1515-41df-808a-208fb752f296</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>4.7K, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Interfaces_GPIO"/>
+      <property name="Sheetfile" value="Interfaces_GPIO.kicad_sch"/>
+      <sheetpath names="/Microcontrolador/Interfaces_GPIO/" tstamps="/922c0b39-92cb-4463-9d8d-3032074eda8e/b47a20aa-eb34-4145-a72d-b3dac59fdda6/"/>
+      <tstamps>a7e4e74f-6e88-4ad6-afb3-c67db2f13d17</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>4.7K, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Interfaces_GPIO"/>
+      <property name="Sheetfile" value="Interfaces_GPIO.kicad_sch"/>
+      <sheetpath names="/Microcontrolador/Interfaces_GPIO/" tstamps="/922c0b39-92cb-4463-9d8d-3032074eda8e/b47a20aa-eb34-4145-a72d-b3dac59fdda6/"/>
+      <tstamps>5f42f627-820f-435c-b984-31252a50c2e0</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>MCP23008-xSS</value>
+      <footprint>Package_SO:SSOP-20_5.3x7.2mm_P0.65mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/MCP23008-MCP23S08-Data-Sheet-20001919F.pdf</datasheet>
+      <libsource lib="Interface_Expansion" part="MCP23008-xSS" description="8-bit I/O expander, I2C, interrupts, SSOP-20"/>
+      <property name="Sheetname" value="Interfaces_GPIO"/>
+      <property name="Sheetfile" value="Interfaces_GPIO.kicad_sch"/>
+      <sheetpath names="/Microcontrolador/Interfaces_GPIO/" tstamps="/922c0b39-92cb-4463-9d8d-3032074eda8e/b47a20aa-eb34-4145-a72d-b3dac59fdda6/"/>
+      <tstamps>b71fbcf5-4072-4048-aad0-4345e7c398ff</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>FM4003-W</value>
+      <footprint>FM4003W:DIOM5025X231N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/FM4003-W.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">FM4003-W</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/fm4003-w/rectron</field>
+        <field name="Description">Rectifiers 1A 200V GP</field>
+        <field name="Height">2.31</field>
+        <field name="Manufacturer_Name">Rectron</field>
+        <field name="Manufacturer_Part_Number">FM4003-W</field>
+        <field name="Mouser Part Number">583-FM4003-W</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Rectron/FM4003-W/?qs=5h8Q3Z7TNRlJu6QU92Ho0w%3D%3D</field>
+      </fields>
+      <libsource lib="FM4003-W" part="FM4003-W" description="Rectifiers 1A 200V GP"/>
+      <property name="Description" value="Rectifiers 1A 200V GP"/>
+      <property name="Height" value="2.31"/>
+      <property name="Manufacturer_Name" value="Rectron"/>
+      <property name="Manufacturer_Part_Number" value="FM4003-W"/>
+      <property name="Mouser Part Number" value="583-FM4003-W"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Rectron/FM4003-W/?qs=5h8Q3Z7TNRlJu6QU92Ho0w%3D%3D"/>
+      <property name="Arrow Part Number" value="FM4003-W"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/fm4003-w/rectron"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Rele_3"/>
+      <property name="Sheetfile" value="Rele_3.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_3/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/eebf6e46-c4e6-4653-a738-8dbeec0c07bc/"/>
+      <tstamps>91bf6f73-2346-4007-b6b6-290c25f5a260</tstamps>
+    </comp>
+    <comp ref="J17">
+      <value>Rele_3</value>
+      <footprint>TB002-500-02BE:TB00250002BE</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Rele_3"/>
+      <property name="Sheetfile" value="Rele_3.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_3/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/eebf6e46-c4e6-4653-a738-8dbeec0c07bc/"/>
+      <tstamps>a566f606-16f5-44d1-82e6-a663878240b4</tstamps>
+    </comp>
+    <comp ref="K6">
+      <value>SRD-05VDC-SL-C</value>
+      <footprint>SRD-05VDC-SL-C-Version_2:RELAY_SRD-05VDC-SL-C</footprint>
+      <fields>
+        <field name="MANUFACTURER">SONGLE RELAY</field>
+        <field name="STANDARD">IPC-7251</field>
+      </fields>
+      <libsource lib="SRD-05VDC-SL-C" part="SRD-05VDC-SL-C" description=""/>
+      <property name="MANUFACTURER" value="SONGLE RELAY"/>
+      <property name="STANDARD" value="IPC-7251"/>
+      <property name="Sheetname" value="Rele_3"/>
+      <property name="Sheetfile" value="Rele_3.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_3/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/eebf6e46-c4e6-4653-a738-8dbeec0c07bc/"/>
+      <tstamps>e34c07da-56cf-4bab-b842-035f6c6fe3ed</tstamps>
+    </comp>
+    <comp ref="Q6">
+      <value>PMBT3904,235</value>
+      <footprint>PMBT3904,235:SOT95P230X110-3N</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/PMBT3904.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">PMBT3904,235</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/pmbt3904235/nexperia?region=nac</field>
+        <field name="Description">PMBT3904 - NPN switching transistor</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Nexperia</field>
+        <field name="Manufacturer_Part_Number">PMBT3904,235</field>
+        <field name="Mouser Part Number">771-PMBT3904235</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Nexperia/PMBT3904235?qs=LOCUfHb8d9uziIfl4fmvZg%3D%3D</field>
+      </fields>
+      <libsource lib="PMBT3904,235" part="PMBT3904,235" description="PMBT3904 - NPN switching transistor"/>
+      <property name="Description" value="PMBT3904 - NPN switching transistor"/>
+      <property name="Height" value="1.1"/>
+      <property name="Manufacturer_Name" value="Nexperia"/>
+      <property name="Manufacturer_Part_Number" value="PMBT3904,235"/>
+      <property name="Mouser Part Number" value="771-PMBT3904235"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Nexperia/PMBT3904235?qs=LOCUfHb8d9uziIfl4fmvZg%3D%3D"/>
+      <property name="Arrow Part Number" value="PMBT3904,235"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/pmbt3904235/nexperia?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Rele_3"/>
+      <property name="Sheetfile" value="Rele_3.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_3/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/eebf6e46-c4e6-4653-a738-8dbeec0c07bc/"/>
+      <tstamps>911610fb-2c2a-417f-aeed-154a12abb812</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>820, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Rele_3"/>
+      <property name="Sheetfile" value="Rele_3.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_3/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/eebf6e46-c4e6-4653-a738-8dbeec0c07bc/"/>
+      <tstamps>45a71eb3-7577-433e-bdb5-2712d000eabd</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>FM4003-W</value>
+      <footprint>FM4003W:DIOM5025X231N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/FM4003-W.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">FM4003-W</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/fm4003-w/rectron</field>
+        <field name="Description">Rectifiers 1A 200V GP</field>
+        <field name="Height">2.31</field>
+        <field name="Manufacturer_Name">Rectron</field>
+        <field name="Manufacturer_Part_Number">FM4003-W</field>
+        <field name="Mouser Part Number">583-FM4003-W</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Rectron/FM4003-W/?qs=5h8Q3Z7TNRlJu6QU92Ho0w%3D%3D</field>
+      </fields>
+      <libsource lib="FM4003-W" part="FM4003-W" description="Rectifiers 1A 200V GP"/>
+      <property name="Description" value="Rectifiers 1A 200V GP"/>
+      <property name="Height" value="2.31"/>
+      <property name="Manufacturer_Name" value="Rectron"/>
+      <property name="Manufacturer_Part_Number" value="FM4003-W"/>
+      <property name="Mouser Part Number" value="583-FM4003-W"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Rectron/FM4003-W/?qs=5h8Q3Z7TNRlJu6QU92Ho0w%3D%3D"/>
+      <property name="Arrow Part Number" value="FM4003-W"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/fm4003-w/rectron"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Rele_6"/>
+      <property name="Sheetfile" value="Rele_6.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_6/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/c0f213f3-1037-472b-81b9-7812041a08ba/"/>
+      <tstamps>78f0f5d4-92dc-4cb6-8d4b-59f3b019e1a0</tstamps>
+    </comp>
+    <comp ref="J18">
+      <value>Rele_6</value>
+      <footprint>TB002-500-02BE:TB00250002BE</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Rele_6"/>
+      <property name="Sheetfile" value="Rele_6.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_6/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/c0f213f3-1037-472b-81b9-7812041a08ba/"/>
+      <tstamps>68c2de0e-6e35-48af-a984-195c677443dc</tstamps>
+    </comp>
+    <comp ref="K7">
+      <value>SRD-05VDC-SL-C</value>
+      <footprint>SRD-05VDC-SL-C-Version_2:RELAY_SRD-05VDC-SL-C</footprint>
+      <fields>
+        <field name="MANUFACTURER">SONGLE RELAY</field>
+        <field name="STANDARD">IPC-7251</field>
+      </fields>
+      <libsource lib="SRD-05VDC-SL-C" part="SRD-05VDC-SL-C" description=""/>
+      <property name="MANUFACTURER" value="SONGLE RELAY"/>
+      <property name="STANDARD" value="IPC-7251"/>
+      <property name="Sheetname" value="Rele_6"/>
+      <property name="Sheetfile" value="Rele_6.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_6/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/c0f213f3-1037-472b-81b9-7812041a08ba/"/>
+      <tstamps>ba4505f8-7d98-4114-abfa-d1f2b7abc25a</tstamps>
+    </comp>
+    <comp ref="Q7">
+      <value>PMBT3904,235</value>
+      <footprint>PMBT3904,235:SOT95P230X110-3N</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/PMBT3904.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">PMBT3904,235</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/pmbt3904235/nexperia?region=nac</field>
+        <field name="Description">PMBT3904 - NPN switching transistor</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Nexperia</field>
+        <field name="Manufacturer_Part_Number">PMBT3904,235</field>
+        <field name="Mouser Part Number">771-PMBT3904235</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Nexperia/PMBT3904235?qs=LOCUfHb8d9uziIfl4fmvZg%3D%3D</field>
+      </fields>
+      <libsource lib="PMBT3904,235" part="PMBT3904,235" description="PMBT3904 - NPN switching transistor"/>
+      <property name="Description" value="PMBT3904 - NPN switching transistor"/>
+      <property name="Height" value="1.1"/>
+      <property name="Manufacturer_Name" value="Nexperia"/>
+      <property name="Manufacturer_Part_Number" value="PMBT3904,235"/>
+      <property name="Mouser Part Number" value="771-PMBT3904235"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Nexperia/PMBT3904235?qs=LOCUfHb8d9uziIfl4fmvZg%3D%3D"/>
+      <property name="Arrow Part Number" value="PMBT3904,235"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/pmbt3904235/nexperia?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Rele_6"/>
+      <property name="Sheetfile" value="Rele_6.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_6/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/c0f213f3-1037-472b-81b9-7812041a08ba/"/>
+      <tstamps>99f71678-32f7-4722-9e62-270fbd0b8bdd</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>820, 1/2W</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Rele_6"/>
+      <property name="Sheetfile" value="Rele_6.kicad_sch"/>
+      <sheetpath names="/Salidas/Rele_6/" tstamps="/9f01c8e0-a430-474f-844d-8642116cb94d/c0f213f3-1037-472b-81b9-7812041a08ba/"/>
+      <tstamps>05303e93-ced3-4e5b-a643-c56250f35316</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Screw_Terminal_01x02">
+      <description>Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x03">
+      <description>Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x04">
+      <description>Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x15">
+      <description>Generic screw terminal, single row, 01x15, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x15</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x15">
+      <description>Generic connector, single row, 01x15, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x15</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_US">
+      <description>Resistor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="PMEG060V050EPD">
+      <description>60V, 5A low Vf MEGA Schottky barrier rectifier, SOT-1289</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/PMEG060V050EPD.pdf</docs>
+      <footprints>
+        <fp>Nexperia*CFP15*SOT?1289*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">PMEG060V050EPD</field>
+        <field name="Footprint">Package_TO_SOT_SMD:Nexperia_CFP15_SOT-1289</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/PMEG060V050EPD.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+        <pin num="3" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="FM4003-W" part="FM4003-W">
+      <description>Rectifiers 1A 200V GP</description>
+      <docs>https://componentsearchengine.com/Datasheets/1/FM4003-W.pdf</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">FM4003-W</field>
+        <field name="Footprint">DIOM5025X231N</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/FM4003-W.pdf</field>
+        <field name="Description">Rectifiers 1A 200V GP</field>
+        <field name="Height">2.31</field>
+        <field name="Manufacturer_Name">Rectron</field>
+        <field name="Manufacturer_Part_Number">FM4003-W</field>
+        <field name="Mouser Part Number">583-FM4003-W</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Rectron/FM4003-W/?qs=5h8Q3Z7TNRlJu6QU92Ho0w%3D%3D</field>
+        <field name="Arrow Part Number">FM4003-W</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/fm4003-w/rectron</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_Expansion" part="MCP23008-xSS">
+      <description>8-bit I/O expander, I2C, interrupts, SSOP-20</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/MCP23008-MCP23S08-Data-Sheet-20001919F.pdf</docs>
+      <footprints>
+        <fp>SSOP*5.3x7.2mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP23008-xSS</field>
+        <field name="Footprint">Package_SO:SSOP-20_5.3x7.2mm_P0.65mm</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/MCP23008-MCP23S08-Data-Sheet-20001919F.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SCL" type="input"/>
+        <pin num="2" name="SDA" type="bidirectional"/>
+        <pin num="3" name="A2" type="input"/>
+        <pin num="4" name="A1" type="input"/>
+        <pin num="5" name="A0" type="input"/>
+        <pin num="6" name="~{RESET}" type="input"/>
+        <pin num="7" name="NC" type="no_connect"/>
+        <pin num="8" name="INT" type="output"/>
+        <pin num="9" name="VSS" type="power_in"/>
+        <pin num="10" name="NC" type="no_connect"/>
+        <pin num="11" name="NC" type="no_connect"/>
+        <pin num="12" name="GP0" type="bidirectional"/>
+        <pin num="13" name="GP1" type="bidirectional"/>
+        <pin num="14" name="GP2" type="bidirectional"/>
+        <pin num="15" name="GP3" type="bidirectional"/>
+        <pin num="16" name="GP4" type="bidirectional"/>
+        <pin num="17" name="GP5" type="bidirectional"/>
+        <pin num="18" name="GP6" type="bidirectional"/>
+        <pin num="19" name="GP7" type="bidirectional"/>
+        <pin num="20" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCP6486T-E{slash}OT" part="MCP6486T-E_OT">
+      <description>10 MHz Op Amp with EMI Filtering</description>
+      <docs>https://ww1.microchip.com/downloads/aemDocuments/documents/MSLD/ProductDocuments/DataSheets/MCP6486-Family-Data-Sheet-DS20006679A.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">MCP6486T-E_OT</field>
+        <field name="Footprint">SOT95P280X145-5N</field>
+        <field name="Datasheet">https://ww1.microchip.com/downloads/aemDocuments/documents/MSLD/ProductDocuments/DataSheets/MCP6486-Family-Data-Sheet-DS20006679A.pdf</field>
+        <field name="Description">10 MHz Op Amp with EMI Filtering</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Microchip</field>
+        <field name="Manufacturer_Part_Number">MCP6486T-E/OT</field>
+        <field name="Mouser Part Number">494-MCP6486T-E/OT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/MCP6486T-E-OT?qs=tlsG%2FOw5FFgg6%2FTtnB49Jg%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VOUT" type="passive"/>
+        <pin num="2" name="VSS" type="passive"/>
+        <pin num="3" name="VIN+" type="passive"/>
+        <pin num="4" name="VIN-" type="passive"/>
+        <pin num="5" name="VDD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="NXB0108PWJ" part="NXB0108PW-Q100J">
+      <footprints>
+        <fp>TSSOP20_SOT360-1_NEX</fp>
+        <fp>TSSOP20_SOT360-1_NEX-M</fp>
+        <fp>TSSOP20_SOT360-1_NEX-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">NXB0108PW-Q100J</field>
+        <field name="Footprint">TSSOP20_SOT360-1_NEX</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A1" type="bidirectional"/>
+        <pin num="2" name="VCCA" type="power_in"/>
+        <pin num="3" name="A2" type="bidirectional"/>
+        <pin num="4" name="A3" type="bidirectional"/>
+        <pin num="5" name="A4" type="bidirectional"/>
+        <pin num="6" name="A5" type="bidirectional"/>
+        <pin num="7" name="A6" type="bidirectional"/>
+        <pin num="8" name="A7" type="bidirectional"/>
+        <pin num="9" name="A8" type="bidirectional"/>
+        <pin num="10" name="OE" type="input"/>
+        <pin num="11" name="GND" type="power_in"/>
+        <pin num="12" name="B8" type="bidirectional"/>
+        <pin num="13" name="B7" type="bidirectional"/>
+        <pin num="14" name="B6" type="bidirectional"/>
+        <pin num="15" name="B5" type="bidirectional"/>
+        <pin num="16" name="B4" type="bidirectional"/>
+        <pin num="17" name="B3" type="bidirectional"/>
+        <pin num="18" name="B2" type="bidirectional"/>
+        <pin num="19" name="VCCB" type="power_in"/>
+        <pin num="20" name="B1" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="PMBT3904,235" part="PMBT3904,235">
+      <description>PMBT3904 - NPN switching transistor</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/PMBT3904.pdf</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">PMBT3904,235</field>
+        <field name="Footprint">SOT95P230X110-3N</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/PMBT3904.pdf</field>
+        <field name="Description">PMBT3904 - NPN switching transistor</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Nexperia</field>
+        <field name="Manufacturer_Part_Number">PMBT3904,235</field>
+        <field name="Mouser Part Number">771-PMBT3904235</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Nexperia/PMBT3904235?qs=LOCUfHb8d9uziIfl4fmvZg%3D%3D</field>
+        <field name="Arrow Part Number">PMBT3904,235</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/pmbt3904235/nexperia?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="LM1117-3.3">
+      <description>800mA Low-Dropout Linear Regulator, 3.3V fixed output, TO-220/TO-252/TO-263/SOT-223</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm1117.pdf</docs>
+      <footprints>
+        <fp>SOT?223*</fp>
+        <fp>TO?263*</fp>
+        <fp>TO?252*</fp>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM1117-3.3</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm1117.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Switching" part="LM2596S-5">
+      <description>5V 3A Step-Down Voltage Regulator, TO-263</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm2596.pdf</docs>
+      <footprints>
+        <fp>TO?263*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM2596S-5</field>
+        <field name="Footprint">Package_TO_SOT_SMD:TO-263-5_TabPin3</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm2596.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="power_in"/>
+        <pin num="2" name="OUT" type="output"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="FB" type="input"/>
+        <pin num="5" name="~{ON}/OFF" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="SRD-05VDC-SL-C" part="SRD-05VDC-SL-C">
+      <fields>
+        <field name="Reference">K</field>
+        <field name="Value">SRD-05VDC-SL-C</field>
+        <field name="Footprint">RELAY_SRD-05VDC-SL-C</field>
+        <field name="MANUFACTURER">SONGLE RELAY</field>
+        <field name="STANDARD">IPC-7251</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="" type="passive"/>
+        <pin num="A2" name="" type="passive"/>
+        <pin num="COM" name="" type="passive"/>
+        <pin num="NC" name="" type="passive"/>
+        <pin num="NO" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+    <library logical="FM4003-W">
+      <uri>C:/Users/Laptop/Documents/KiCad/Footprints/LIB_FM4003-W/FM4003-W/KiCad/FM4003-W.lib</uri>
+    </library>
+    <library logical="Interface_Expansion">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Interface_Expansion.kicad_sym</uri>
+    </library>
+    <library logical="MCP6486T-E{slash}OT">
+      <uri>C:/Users/Laptop/Downloads/LIB_MCP6486T-E_OT/MCP6486T-E_OT/KiCad/MCP6486T-E_OT.lib</uri>
+    </library>
+    <library logical="NXB0108PWJ">
+      <uri>C:/Users/Laptop/Downloads/ul_NXB0108PW-Q100J/KiCAD/2022-09-06_02-02-56/2022-09-06_02-02-56.kicad_sym</uri>
+    </library>
+    <library logical="PMBT3904,235">
+      <uri>C:/Users/Laptop/Documents/KiCad/Footprints/LIB_PMBT3904,235/PMBT3904,235/KiCad/PMBT3904_235.lib</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Switching">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Switching.kicad_sym</uri>
+    </library>
+    <library logical="SRD-05VDC-SL-C">
+      <uri>C:/Users/Laptop/Documents/KiCad/Footprints/SRD-05VDC-SL-C/SRD-05VDC-SL-C.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V">
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="J3" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="VO" pintype="power_out"/>
+      <node ref="U3" pin="2" pinfunction="VCCA" pintype="power_in"/>
+      <node ref="U4" pin="20" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="5" pinfunction="VDD" pintype="passive"/>
+      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J10" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J10" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="J10" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J10" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="FB" pintype="input"/>
+      <node ref="U2" pin="3" pinfunction="VI" pintype="power_in"/>
+      <node ref="U3" pin="19" pinfunction="VCCB" pintype="power_in"/>
+    </net>
+    <net code="3" name="/Entradas/Data_SensorCO2">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="U3" pin="18" pinfunction="B2" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/Entradas/Data_SensorFlujo">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="U3" pin="20" pinfunction="B1" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/Entradas/Data_SensorNivel_1">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U3" pin="13" pinfunction="B7" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/Entradas/Data_SensorNivel_2">
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U3" pin="14" pinfunction="B6" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/Entradas/Data_SensorNivel_3">
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U3" pin="15" pinfunction="B5" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/Entradas/Data_SensorNivel_4">
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U3" pin="16" pinfunction="B4" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/Entradas/Data_SensorNivel_5">
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="U3" pin="17" pinfunction="B3" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/Entradas/Data_SensorTempHum">
+      <node ref="J3" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+    </net>
+    <net code="11" name="/Entradas/Data_SensorTempSumerg">
+      <node ref="J3" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+    </net>
+    <net code="12" name="/Entradas/Ilum_Analog">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+    </net>
+    <net code="13" name="/Entradas/SensorCO2">
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+    </net>
+    <net code="14" name="/Entradas/SensorFlujo">
+      <node ref="J11" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="/Entradas/SensorIlum">
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="/Entradas/SensorNivel_1">
+      <node ref="J10" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="/Entradas/SensorNivel_2">
+      <node ref="J10" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="18" name="/Entradas/SensorNivel_3">
+      <node ref="J10" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="19" name="/Entradas/SensorNivel_4">
+      <node ref="J10" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="/Entradas/SensorNivel_5">
+      <node ref="J10" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+    </net>
+    <net code="21" name="/Entradas/SensorTDS">
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+    </net>
+    <net code="22" name="/Entradas/SensorTempHum">
+      <node ref="J9" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="23" name="/Entradas/SensorTempSumerg">
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="24" name="/Entradas/SensorpH">
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+    </net>
+    <net code="25" name="/Entradas/TDS_Analog">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+    </net>
+    <net code="26" name="/Entradas/Trigger_pH">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U3" pin="12" pinfunction="B8" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="/Entradas/pH_Analog">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="28" name="/Entradas/pH__Analog">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+    </net>
+    <net code="29" name="/Fuentes/VIN_24V">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="VIN" pintype="power_in"/>
+    </net>
+    <net code="30" name="/Microcontrolador/MCP23008_RESET">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="~{RESET}" pintype="input"/>
+    </net>
+    <net code="31" name="/Microcontrolador/MCP23008_SCL">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="32" name="/Microcontrolador/MCP23008_SDA">
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="/Microcontrolador/NXB0108_OE">
+      <node ref="J2" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="U3" pin="10" pinfunction="OE" pintype="input"/>
+    </net>
+    <net code="34" name="/Microcontrolador/Rele_1">
+      <node ref="R27" pin="1" pintype="passive"/>
+      <node ref="U4" pin="12" pinfunction="GP0" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="/Microcontrolador/Rele_2">
+      <node ref="R29" pin="1" pintype="passive"/>
+      <node ref="U4" pin="13" pinfunction="GP1" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="/Microcontrolador/Rele_3">
+      <node ref="R32" pin="1" pintype="passive"/>
+      <node ref="U4" pin="14" pinfunction="GP2" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="/Microcontrolador/Rele_4">
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="U4" pin="15" pinfunction="GP3" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="/Microcontrolador/Rele_5">
+      <node ref="R28" pin="1" pintype="passive"/>
+      <node ref="U4" pin="16" pinfunction="GP4" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="/Microcontrolador/Rele_6">
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="U4" pin="17" pinfunction="GP5" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="/Microcontrolador/Rele_7">
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="U4" pin="18" pinfunction="GP6" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="/Microcontrolador/SensorCO2">
+      <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="A2" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="/Microcontrolador/SensorFlujo">
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="A1" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="/Microcontrolador/SensorNivel_1">
+      <node ref="J2" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="A7" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="/Microcontrolador/SensorNivel_2">
+      <node ref="J2" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="A6" pintype="bidirectional"/>
+    </net>
+    <net code="45" name="/Microcontrolador/SensorNivel_3">
+      <node ref="J2" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="A5" pintype="bidirectional"/>
+    </net>
+    <net code="46" name="/Microcontrolador/SensorNivel_4">
+      <node ref="J2" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="A4" pintype="bidirectional"/>
+    </net>
+    <net code="47" name="/Microcontrolador/SensorNivel_5">
+      <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="A3" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="/Microcontrolador/Trigger__pH">
+      <node ref="U3" pin="9" pinfunction="A8" pintype="bidirectional"/>
+      <node ref="U4" pin="19" pinfunction="GP7" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="/Salidas/+5V">
+      <node ref="D2" pin="1" pintype="passive"/>
+      <node ref="D3" pin="1" pintype="passive"/>
+      <node ref="D4" pin="1" pintype="passive"/>
+      <node ref="D5" pin="1" pintype="passive"/>
+      <node ref="D6" pin="1" pintype="passive"/>
+      <node ref="D7" pin="1" pintype="passive"/>
+      <node ref="D8" pin="1" pintype="passive"/>
+      <node ref="K1" pin="A1" pintype="passive"/>
+      <node ref="K2" pin="A1" pintype="passive"/>
+      <node ref="K3" pin="A1" pintype="passive"/>
+      <node ref="K4" pin="A1" pintype="passive"/>
+      <node ref="K5" pin="A1" pintype="passive"/>
+      <node ref="K6" pin="A1" pintype="passive"/>
+      <node ref="K7" pin="A1" pintype="passive"/>
+    </net>
+    <net code="50" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="IC1" pin="2" pinfunction="VSS" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J10" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="J10" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="J10" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J10" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J10" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="J11" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J2" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="J3" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J7" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J8" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J9" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="Q1" pin="2" pintype="passive"/>
+      <node ref="Q2" pin="2" pintype="passive"/>
+      <node ref="Q3" pin="2" pintype="passive"/>
+      <node ref="Q4" pin="2" pintype="passive"/>
+      <node ref="Q5" pin="2" pintype="passive"/>
+      <node ref="Q6" pin="2" pintype="passive"/>
+      <node ref="Q7" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="5" pinfunction="~{ON}/OFF" pintype="input"/>
+      <node ref="U2" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="11" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="3" pinfunction="A2" pintype="input"/>
+      <node ref="U4" pin="4" pinfunction="A1" pintype="input"/>
+      <node ref="U4" pin="5" pinfunction="A0" pintype="input"/>
+      <node ref="U4" pin="9" pinfunction="VSS" pintype="power_in"/>
+    </net>
+    <net code="51" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(C7-Pad1)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(C10-Pad1)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(D1-Pad3)">
+      <node ref="D1" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="59" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pintype="passive"/>
+      <node ref="K1" pin="A2" pintype="passive"/>
+      <node ref="Q1" pin="3" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pintype="passive"/>
+      <node ref="K2" pin="A2" pintype="passive"/>
+      <node ref="Q2" pin="3" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pintype="passive"/>
+      <node ref="K3" pin="A2" pintype="passive"/>
+      <node ref="Q3" pin="3" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pintype="passive"/>
+      <node ref="K4" pin="A2" pintype="passive"/>
+      <node ref="Q4" pin="3" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pintype="passive"/>
+      <node ref="K5" pin="A2" pintype="passive"/>
+      <node ref="Q5" pin="3" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pintype="passive"/>
+      <node ref="K6" pin="A2" pintype="passive"/>
+      <node ref="Q6" pin="3" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pintype="passive"/>
+      <node ref="K7" pin="A2" pintype="passive"/>
+      <node ref="Q7" pin="3" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(IC1-Pad1)">
+      <node ref="IC1" pin="1" pinfunction="VOUT" pintype="passive"/>
+      <node ref="IC1" pin="4" pinfunction="VIN-" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(IC1-Pad3)">
+      <node ref="IC1" pin="3" pinfunction="VIN+" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(J12-Pad1)">
+      <node ref="J12" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="K1" pin="NO" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(J12-Pad2)">
+      <node ref="J12" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="K1" pin="COM" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(J13-Pad1)">
+      <node ref="J13" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="K2" pin="NO" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(J13-Pad2)">
+      <node ref="J13" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="K2" pin="COM" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(J14-Pad1)">
+      <node ref="J14" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="K3" pin="NO" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(J14-Pad2)">
+      <node ref="J14" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="K3" pin="COM" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(J15-Pad1)">
+      <node ref="J15" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="K4" pin="NO" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(J15-Pad2)">
+      <node ref="J15" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="K4" pin="COM" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(J16-Pad1)">
+      <node ref="J16" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="K5" pin="NO" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(J16-Pad2)">
+      <node ref="J16" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="K5" pin="COM" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(J17-Pad1)">
+      <node ref="J17" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="K6" pin="NO" pintype="passive"/>
+    </net>
+    <net code="79" name="Net-(J17-Pad2)">
+      <node ref="J17" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="K6" pin="COM" pintype="passive"/>
+    </net>
+    <net code="80" name="Net-(J18-Pad1)">
+      <node ref="J18" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="K7" pin="NO" pintype="passive"/>
+    </net>
+    <net code="81" name="Net-(J18-Pad2)">
+      <node ref="J18" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="K7" pin="COM" pintype="passive"/>
+    </net>
+    <net code="82" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+    </net>
+    <net code="83" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+    </net>
+    <net code="84" name="Net-(Q3-Pad1)">
+      <node ref="Q3" pin="1" pintype="passive"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+    </net>
+    <net code="85" name="Net-(Q4-Pad1)">
+      <node ref="Q4" pin="1" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+    </net>
+    <net code="86" name="Net-(Q5-Pad1)">
+      <node ref="Q5" pin="1" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+    </net>
+    <net code="87" name="Net-(Q6-Pad1)">
+      <node ref="Q6" pin="1" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+    </net>
+    <net code="88" name="Net-(Q7-Pad1)">
+      <node ref="Q7" pin="1" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+    </net>
+    <net code="89" name="unconnected-(J2-Pad1)">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="90" name="unconnected-(J2-Pad5)">
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive+no_connect"/>
+    </net>
+    <net code="91" name="unconnected-(J2-Pad15)">
+      <node ref="J2" pin="15" pinfunction="Pin_15" pintype="passive+no_connect"/>
+    </net>
+    <net code="92" name="unconnected-(J3-Pad3)">
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive+no_connect"/>
+    </net>
+    <net code="93" name="unconnected-(J3-Pad4)">
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive+no_connect"/>
+    </net>
+    <net code="94" name="unconnected-(J3-Pad6)">
+      <node ref="J3" pin="6" pinfunction="Pin_6" pintype="passive+no_connect"/>
+    </net>
+    <net code="95" name="unconnected-(J3-Pad8)">
+      <node ref="J3" pin="8" pinfunction="Pin_8" pintype="passive+no_connect"/>
+    </net>
+    <net code="96" name="unconnected-(J3-Pad9)">
+      <node ref="J3" pin="9" pinfunction="Pin_9" pintype="passive+no_connect"/>
+    </net>
+    <net code="97" name="unconnected-(J3-Pad10)">
+      <node ref="J3" pin="10" pinfunction="Pin_10" pintype="passive+no_connect"/>
+    </net>
+    <net code="98" name="unconnected-(J3-Pad12)">
+      <node ref="J3" pin="12" pinfunction="Pin_12" pintype="passive+no_connect"/>
+    </net>
+    <net code="99" name="unconnected-(J3-Pad13)">
+      <node ref="J3" pin="13" pinfunction="Pin_13" pintype="passive+no_connect"/>
+    </net>
+    <net code="100" name="unconnected-(K1-PadNC)">
+      <node ref="K1" pin="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="101" name="unconnected-(K2-PadNC)">
+      <node ref="K2" pin="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="102" name="unconnected-(K3-PadNC)">
+      <node ref="K3" pin="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="103" name="unconnected-(K4-PadNC)">
+      <node ref="K4" pin="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="104" name="unconnected-(K5-PadNC)">
+      <node ref="K5" pin="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="105" name="unconnected-(K6-PadNC)">
+      <node ref="K6" pin="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="106" name="unconnected-(K7-PadNC)">
+      <node ref="K7" pin="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="107" name="unconnected-(U4-Pad7)">
+      <node ref="U4" pin="7" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="108" name="unconnected-(U4-Pad8)">
+      <node ref="U4" pin="8" pinfunction="INT" pintype="output+no_connect"/>
+    </net>
+    <net code="109" name="unconnected-(U4-Pad10)">
+      <node ref="U4" pin="10" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="110" name="unconnected-(U4-Pad11)">
+      <node ref="U4" pin="11" pinfunction="NC" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>
