@@ -328,7 +328,7 @@
     (uuid a0576404-cb4a-49f6-90f5-cb8b3d39ab54)
     (property "Reference" "J1" (id 0) (at 29.0068 128.4986 0))
     (property "Value" "VIN" (id 1) (at 29.0068 131.0386 0))
-    (property "Footprint" "" (id 2) (at 29.0068 135.5852 0)
+    (property "Footprint" "TB002-500-02BE:TB00250002BE" (id 2) (at 29.0068 135.5852 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 29.0068 135.5852 0)
@@ -738,16 +738,16 @@
       (reference "D8") (unit 1) (value "FM4003-W") (footprint "FM4003W:DIOM5025X231N")
     )
     (path "/aa68080b-efaa-40f4-b3b3-094ea26c340f/c0cfa6fa-a0c7-497c-ac2e-21e840ad96c4"
-      (reference "IC1") (unit 1) (value "MCP6486T-E_OT") (footprint "")
+      (reference "IC1") (unit 1) (value "MCP6486T-E_OT") (footprint "MCP6486T-E_OT:MCP6486RT-E&slash_OT")
     )
     (path "/a0576404-cb4a-49f6-90f5-cb8b3d39ab54"
-      (reference "J1") (unit 1) (value "VIN") (footprint "")
+      (reference "J1") (unit 1) (value "VIN") (footprint "TB002-500-02BE:TB00250002BE")
     )
     (path "/922c0b39-92cb-4463-9d8d-3032074eda8e/ceaa7ae2-f24e-4663-81f0-45d9e5b0e51e"
-      (reference "J2") (unit 1) (value "Conn_01x15") (footprint "Connector_JST:JST_SUR_SM08B-SURS-TF_1x08-1MP_P0.80mm_Horizontal")
+      (reference "J2") (unit 1) (value "Conn_01x15") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical")
     )
     (path "/922c0b39-92cb-4463-9d8d-3032074eda8e/a5472214-5301-44d4-a09a-15965a4cb03f"
-      (reference "J3") (unit 1) (value "Conn_01x15") (footprint "Connector_JST:JST_SUR_SM08B-SURS-TF_1x08-1MP_P0.80mm_Horizontal")
+      (reference "J3") (unit 1) (value "Conn_01x15") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical")
     )
     (path "/aa68080b-efaa-40f4-b3b3-094ea26c340f/5d9a8247-729d-4386-8b3a-ec2849dcae66"
       (reference "J4") (unit 1) (value "Terminal_Sensor_pH") (footprint "TB001-500-04BE:TB00150004BE")
