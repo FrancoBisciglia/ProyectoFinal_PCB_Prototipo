@@ -1520,7 +1520,7 @@
     (in_bom yes) (on_board yes)
     (uuid 4fb485a4-c38d-42dc-a3e0-b0b5b40e15d2)
     (property "Reference" "J5" (id 0) (at 118.1862 95.885 0))
-    (property "Value" "Terminal_Sensor_Temp_Sumerg" (id 1) (at 118.1862 98.425 0))
+    (property "Value" "Terminal_Sensor_CO2" (id 1) (at 118.1862 98.425 0))
     (property "Footprint" "TB002-500-03BE:SHDR3W100P0X500_1X3_1500X760X1000P" (id 2) (at 118.1862 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
