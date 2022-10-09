@@ -93,8 +93,14 @@
   (junction (at 108.839 102.489) (diameter 0) (color 0 0 0 0)
     (uuid 65988ce4-f8d8-4db2-9378-537457184514)
   )
+  (junction (at 108.8136 136.0932) (diameter 0) (color 0 0 0 0)
+    (uuid 7a8f786f-ed83-4f8c-8d46-95893128d60f)
+  )
   (junction (at 108.839 136.144) (diameter 0) (color 0 0 0 0)
     (uuid a0bb51fb-0b03-4d59-a424-ae395577e526)
+  )
+  (junction (at 108.839 136.0932) (diameter 0) (color 0 0 0 0)
+    (uuid c6a9e2df-0a03-4590-8b5d-cd20ffa5236a)
   )
   (junction (at 114.7826 145.3388) (diameter 0) (color 0 0 0 0)
     (uuid ca1b88fb-575f-4331-8332-d36beabfdef6)
@@ -110,7 +116,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 007df839-7d92-4d2a-95cd-d5c7034f3ac6)
   )
-  (wire (pts (xy 108.839 102.489) (xy 108.839 136.144))
+  (wire (pts (xy 108.839 102.489) (xy 108.839 136.0932))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 035a7a1d-7682-4460-bf99-faa5b8d0f918)
   )
@@ -154,9 +160,17 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 249c2602-0fb6-42be-a1cc-2137621b9ae9)
   )
+  (wire (pts (xy 260.2992 56.5658) (xy 260.2992 136.0932))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 28bd063d-7688-4be1-bdc4-3ca042c8d7b2)
+  )
   (wire (pts (xy 96.4438 145.3642) (xy 114.7826 145.3642))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 2a0fefb1-0680-4309-bbbf-865267b41392)
+  )
+  (wire (pts (xy 108.8136 136.0932) (xy 108.8136 136.1186))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 2b73a20f-bd48-41b8-845e-7e82d56715cf)
   )
   (wire (pts (xy 267.9954 50.7238) (xy 267.9954 145.3388))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -165,6 +179,10 @@
   (wire (pts (xy 95.9358 52.324) (xy 122.6058 52.324))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 2fe14211-1d02-47b3-a33b-e4c2f79fdfa2)
+  )
+  (wire (pts (xy 108.839 136.0932) (xy 108.839 136.144))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 31a36d50-e073-426c-a877-de7519d24d8f)
   )
   (wire (pts (xy 95.9358 54.356) (xy 122.6058 54.356))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -181,10 +199,6 @@
   (wire (pts (xy 34.163 63.2714) (xy 34.163 102.4636))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 3c2cc75d-4deb-45f0-9d76-16681283bc45)
-  )
-  (wire (pts (xy 260.2738 56.5658) (xy 260.2738 136.1186))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid 3c7b9fa9-c294-41ba-ac25-b7bd08491e23)
   )
   (wire (pts (xy 39.5986 138.1252) (xy 34.0868 138.1252))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -226,10 +240,6 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 85f621c0-11f2-41c3-810d-a64e7b3deb74)
   )
-  (wire (pts (xy 251.5108 56.5658) (xy 260.2738 56.5658))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid 8bf6a3d3-2870-467c-9e4a-9f86a0a980c3)
-  )
   (wire (pts (xy 174.0408 59.2836) (xy 203.2508 59.2836))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 8c4edff6-fcb8-40b9-9f4f-9bb92529fefb)
@@ -237,6 +247,14 @@
   (wire (pts (xy 96.4438 125.7046) (xy 103.8606 125.7046))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 8dda6b98-9404-40f5-8085-d4be32264411)
+  )
+  (wire (pts (xy 108.839 136.0932) (xy 108.8136 136.0932))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 93d5b188-4fac-40be-8643-06115b51ad7d)
+  )
+  (wire (pts (xy 251.5108 56.5658) (xy 260.2992 56.5658))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 9c5b845c-e099-44be-90aa-c983c9ece2e9)
   )
   (wire (pts (xy 95.9358 44.704) (xy 122.6058 44.704))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -262,7 +280,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid add28017-6702-4879-99d6-34aed2d5ef10)
   )
-  (wire (pts (xy 260.2738 136.1186) (xy 108.8136 136.1186))
+  (wire (pts (xy 260.2992 136.0932) (xy 108.839 136.0932))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid b1d321a2-849b-4c6a-a0a4-c64836172fb0)
   )
@@ -321,6 +339,12 @@
   (wire (pts (xy 122.6058 97.3836) (xy 114.7826 97.3836))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid fda3eb11-cbd3-44f7-9419-eb72a004eaf4)
+  )
+
+  (text "NOTA: DEBIDO A QUE SE BUSCÓ A TODA COSTA QUE\nLA PLACA SEA DE 1 CAPA, SE TUVO QUE UTILIZAR\nEN VARIOS PUNTOS UNA UNION MEDIANTE PIN HEADERS,\nQUE LUEGO SE UNIRAN ENTRE SI MEDIANTE CABLES"
+    (at 191.135 179.07 0)
+    (effects (font (size 1.75 1.75) (thickness 0.254) bold) (justify left bottom))
+    (uuid dd579fc0-b213-4a01-ad27-ba6e3385f3bd)
   )
 
   (symbol (lib_id "Connector:Screw_Terminal_01x02") (at 29.0068 135.5852 0) (mirror y) (unit 1)
@@ -641,6 +665,24 @@
     (path "/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/22c2acbf-0db8-42c1-9315-92e51265589f"
       (reference "#PWR05") (unit 1) (value "GND") (footprint "")
     )
+    (path "/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/9fcc8f8e-d02d-40c6-b032-eb7e7da4fc3b"
+      (reference "#PWR06") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/fd8b6821-8d35-4590-a029-fafbde594af4"
+      (reference "#PWR07") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/6150aaf9-eaa3-4a8d-a5c1-8fe4766d4f89"
+      (reference "#PWR08") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/814eee28-3107-409f-bc35-4c431ca0b2a0"
+      (reference "#PWR09") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/6a4c837f-a304-4fa2-a876-caa858005c58"
+      (reference "#PWR010") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/753f5c7d-3c27-4ca2-af33-1de3b6c80ce5"
+      (reference "#PWR011") (unit 1) (value "GND") (footprint "")
+    )
     (path "/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/3c3263dc-93b5-4df0-b6b2-071cab9f1b2c"
       (reference "C1") (unit 1) (value "1 nF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
@@ -725,8 +767,8 @@
     (path "/9f01c8e0-a430-474f-844d-8642116cb94d/c0f213f3-1037-472b-81b9-7812041a08ba/78f0f5d4-92dc-4cb6-8d4b-59f3b019e1a0"
       (reference "D8") (unit 1) (value "FM4003-W") (footprint "FM4003W:DIOM5025X231N")
     )
-    (path "/aa68080b-efaa-40f4-b3b3-094ea26c340f/c0cfa6fa-a0c7-497c-ac2e-21e840ad96c4"
-      (reference "IC1") (unit 1) (value "MCP6486T-E_OT") (footprint "MCP6486T-E_OT:MCP6486RT-E&slash_OT")
+    (path "/aa68080b-efaa-40f4-b3b3-094ea26c340f/21900ff6-2964-4e22-8c11-37c40695e316"
+      (reference "IC1") (unit 1) (value "UA741CP") (footprint "UA741CP:DIP794W53P254L959H508Q8N")
     )
     (path "/a0576404-cb4a-49f6-90f5-cb8b3d39ab54"
       (reference "J1") (unit 1) (value "VIN") (footprint "TB002-500-02BE:TB00250002BE")
@@ -781,6 +823,81 @@
     )
     (path "/9f01c8e0-a430-474f-844d-8642116cb94d/c0f213f3-1037-472b-81b9-7812041a08ba/68c2de0e-6e35-48af-a984-195c677443dc"
       (reference "J18") (unit 1) (value "Rele_6") (footprint "TB002-500-02BE:TB00250002BE")
+    )
+    (path "/922c0b39-92cb-4463-9d8d-3032074eda8e/b47a20aa-eb34-4145-a72d-b3dac59fdda6/172a87b3-2dad-43f5-bdaf-5c13f5aacf26"
+      (reference "J19") (unit 1) (value "Pin GND") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/293a8f7f-affc-4574-b6c9-b4af89024f03"
+      (reference "J20") (unit 1) (value "Conector 3V3") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical")
+    )
+    (path "/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/f6304145-c2e4-4425-b6dd-56791bf2ce52"
+      (reference "J21") (unit 1) (value "Conector GND") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical")
+    )
+    (path "/922c0b39-92cb-4463-9d8d-3032074eda8e/beef3009-7cac-480a-8e77-cea9adcd939b/a8ff8857-4a99-4c05-a4ac-7d00416e3bba"
+      (reference "J22") (unit 1) (value "Pin_3V3") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/922c0b39-92cb-4463-9d8d-3032074eda8e/beef3009-7cac-480a-8e77-cea9adcd939b/3c947cf2-03ed-4c2c-afd0-873d65d42a81"
+      (reference "J23") (unit 1) (value "Pin_3V3") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/aa68080b-efaa-40f4-b3b3-094ea26c340f/d6227de6-ba9c-4ac4-b651-853f67651861"
+      (reference "J24") (unit 1) (value "Pin GND") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/922c0b39-92cb-4463-9d8d-3032074eda8e/beef3009-7cac-480a-8e77-cea9adcd939b/98af8649-a1ec-4f11-bc4c-588209d83791"
+      (reference "J25") (unit 1) (value "Pin_3V3") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/7d5bb97b-df6a-46b4-97e0-d94653a1872c"
+      (reference "J26") (unit 1) (value "Pin GND") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/922c0b39-92cb-4463-9d8d-3032074eda8e/beef3009-7cac-480a-8e77-cea9adcd939b/f5a9513b-479f-4b30-af78-be594e664cef"
+      (reference "J27") (unit 1) (value "Pin_3V3") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/922c0b39-92cb-4463-9d8d-3032074eda8e/beef3009-7cac-480a-8e77-cea9adcd939b/60ac65a9-2f5f-47ba-93fd-5aa31125efa8"
+      (reference "J28") (unit 1) (value "Pin_3V3") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/922c0b39-92cb-4463-9d8d-3032074eda8e/beef3009-7cac-480a-8e77-cea9adcd939b/7e690b25-7c6b-45f3-807c-22fd4b0d5434"
+      (reference "J29") (unit 1) (value "Pin_3V3") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/9f01c8e0-a430-474f-844d-8642116cb94d/aa0e661d-3ba8-4445-a4f5-76063181c285/24325773-9744-4467-970d-ab76283932d6"
+      (reference "J30") (unit 1) (value "Pin GND") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/9f01c8e0-a430-474f-844d-8642116cb94d/3611aeef-6822-4fd4-9b88-c39fc250099d/3c191d2a-2c66-44d4-8aef-45893122b382"
+      (reference "J31") (unit 1) (value "Pin GND") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/9f01c8e0-a430-474f-844d-8642116cb94d/4f3840fd-6320-43d8-ade5-75c93b3baea9/e6c9c537-5a3a-4eae-acde-82400f2bf5d7"
+      (reference "J32") (unit 1) (value "Pin GND") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/9f01c8e0-a430-474f-844d-8642116cb94d/e80d88e1-e70a-4f91-9899-78c32fabfa3d/80f11916-bd8b-4fa7-b008-a0831ad25ef3"
+      (reference "J33") (unit 1) (value "Pin GND") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/922c0b39-92cb-4463-9d8d-3032074eda8e/b47a20aa-eb34-4145-a72d-b3dac59fdda6/bd97b49f-0df9-4f9c-9aba-d77c4e9fb011"
+      (reference "J34") (unit 1) (value "Pin GND") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/9f01c8e0-a430-474f-844d-8642116cb94d/eebf6e46-c4e6-4653-a738-8dbeec0c07bc/8d44f234-796d-4d3f-85d6-bc6e117738e3"
+      (reference "J35") (unit 1) (value "Pin GND") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/9f01c8e0-a430-474f-844d-8642116cb94d/c0f213f3-1037-472b-81b9-7812041a08ba/cc261977-48ec-4a48-af8c-3d6ac12c161b"
+      (reference "J36") (unit 1) (value "Pin GND") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/e421259e-7434-4326-b557-702ff8201686"
+      (reference "J37") (unit 1) (value "Pin GND") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/bbe63f4c-3d05-4f1c-b2ef-dca61e529b7b"
+      (reference "J38") (unit 1) (value "Pin GND") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/b96eeb2c-495f-4e6e-a639-680baca73231"
+      (reference "J39") (unit 1) (value "Pin GND") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/8755501e-cbfa-4313-87b4-251e38891968"
+      (reference "J40") (unit 1) (value "Pin GND") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/24b6e070-4c00-4c27-a3ae-8b11fab3a9f3"
+      (reference "J41") (unit 1) (value "Pin GND") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/0d64eea1-32d9-489e-b5aa-8fd00a563cf8"
+      (reference "J42") (unit 1) (value "Pin GND") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/12ff3364-fd70-436c-81dd-ee3508beec94"
+      (reference "J43") (unit 1) (value "Conector GND") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical")
     )
     (path "/9f01c8e0-a430-474f-844d-8642116cb94d/aa0e661d-3ba8-4445-a4f5-76063181c285/f0557562-ab20-4bbe-8a73-9dc88ae75261"
       (reference "K1") (unit 1) (value "SRD-05VDC-SL-C") (footprint "SRD-05VDC-SL-C-Version_2:RELAY_SRD-05VDC-SL-C")
