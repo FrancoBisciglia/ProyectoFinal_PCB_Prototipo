@@ -346,6 +346,10 @@
     (effects (font (size 1.75 1.75) (thickness 0.254) bold) (justify left bottom))
     (uuid dd579fc0-b213-4a01-ad27-ba6e3385f3bd)
   )
+  (text "NOTA: FALTA VOLVER A GENERAR LOS GERBER" (at 140.335 123.19 0)
+    (effects (font (size 1.75 1.75) (thickness 0.254) bold) (justify left bottom))
+    (uuid e35a2587-8095-48b2-931b-35bf330ad8ce)
+  )
 
   (symbol (lib_id "Connector:Screw_Terminal_01x02") (at 29.0068 135.5852 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
@@ -723,7 +727,7 @@
       (reference "C13") (unit 1) (value "100 nF, 50V") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/12fc8e7b-24ff-4986-8408-7534acd8b9e1"
-      (reference "C14") (unit 1) (value "470 uF, 50V") (footprint "UUG1H471MNQ6MS:CAPAE1710X1750N")
+      (reference "C14") (unit 1) (value "470 uF, 50V") (footprint "VE-471M1HTR-1316:CAPAE1300X1650N")
     )
     (path "/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/af5e945d-6e41-491f-943f-f54ce556d497"
       (reference "C15") (unit 1) (value "220 uF, 10V") (footprint "TPSE227K010R0100:TPSE227K016R0100V")
@@ -1119,7 +1123,7 @@
       (reference "U1") (unit 1) (value "LM2596S-5") (footprint "Package_TO_SOT_SMD:TO-263-5_TabPin3")
     )
     (path "/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/1d996468-537d-448d-b463-fef17f9a74b3"
-      (reference "U2") (unit 1) (value "LM1117-3.3") (footprint "LM1117MPX-33NOPB:SOT230P700X180-4N")
+      (reference "U2") (unit 1) (value "LM1117-3.3") (footprint "LM1117SX-3V3-NOPB:KTT0003B")
     )
     (path "/922c0b39-92cb-4463-9d8d-3032074eda8e/b47a20aa-eb34-4145-a72d-b3dac59fdda6/a97a44f5-b6f4-4f21-8daf-f76df10ef6c3"
       (reference "U3") (unit 1) (value "MCP23008-xP") (footprint "Package_DIP:DIP-18_W7.62mm")
