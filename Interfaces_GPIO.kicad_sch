@@ -676,7 +676,7 @@
     (uuid 864493dd-a5c1-449b-b121-0ae24d08c3eb)
     (property "Reference" "C19" (id 0) (at 162.3263 70.485 90))
     (property "Value" "10 uF, 50V" (id 1) (at 165.735 73.025 90))
-    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (id 2) (at 166.3903 76.5048 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" (id 2) (at 166.3903 76.5048 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 162.5803 77.47 0)

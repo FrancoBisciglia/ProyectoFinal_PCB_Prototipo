@@ -341,7 +341,8 @@
     (uuid fda3eb11-cbd3-44f7-9419-eb72a004eaf4)
   )
 
-  (text "VER NOTAS EN FILTRADO, FUENTES" (at 138.43 131.445 0)
+  (text "LISTO LAS CORRECCIONES DE FOOTPRINTS, FALTA REVISAR"
+    (at 138.43 131.445 0)
     (effects (font (size 2.5 2.5) (thickness 0.4) bold) (justify left bottom))
     (uuid 9f3f8512-8edf-4131-9a38-a67f43034de7)
   )
@@ -691,6 +692,9 @@
     (path "/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/753f5c7d-3c27-4ca2-af33-1de3b6c80ce5"
       (reference "#PWR011") (unit 1) (value "GND") (footprint "")
     )
+    (path "/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/c04aac93-9c28-45f9-bdfe-d3cc9af0b68e"
+      (reference "#PWR012") (unit 1) (value "GND") (footprint "")
+    )
     (path "/aa68080b-efaa-40f4-b3b3-094ea26c340f/d4a29e53-7521-418f-a805-770ff6de9bd3/3c3263dc-93b5-4df0-b6b2-071cab9f1b2c"
       (reference "C1") (unit 1) (value "1 nF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
@@ -731,22 +735,22 @@
       (reference "C13") (unit 1) (value "100 nF, 50V") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/12fc8e7b-24ff-4986-8408-7534acd8b9e1"
-      (reference "C14") (unit 1) (value "470 uF, 50V") (footprint "VE-471M1HTR-1316:CAPAE1300X1650N")
+      (reference "C14") (unit 1) (value "470 uF, 50V") (footprint "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
     )
     (path "/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/af5e945d-6e41-491f-943f-f54ce556d497"
-      (reference "C15") (unit 1) (value "470 uF, 50V") (footprint "TPSE227K010R0100:TPSE227K016R0100V")
+      (reference "C15") (unit 1) (value "470 uF, 50V") (footprint "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
     )
     (path "/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/016242b2-7b71-4fed-a00a-3fe8651f8cd2"
       (reference "C16") (unit 1) (value "100 nF, 50V") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/90a1e379-e927-402f-93e2-ab05f16b7c25"
-      (reference "C17") (unit 1) (value "10 uF, 50V") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C17") (unit 1) (value "10 uF, 50V") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm")
     )
     (path "/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/80c03b1b-85b6-419f-9d01-74a708f6cf15"
-      (reference "C18") (unit 1) (value "10 uF, 50V") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C18") (unit 1) (value "10 uF, 50V") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm")
     )
     (path "/922c0b39-92cb-4463-9d8d-3032074eda8e/b47a20aa-eb34-4145-a72d-b3dac59fdda6/864493dd-a5c1-449b-b121-0ae24d08c3eb"
-      (reference "C19") (unit 1) (value "10 uF, 50V") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C19") (unit 1) (value "10 uF, 50V") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm")
     )
     (path "/922c0b39-92cb-4463-9d8d-3032074eda8e/b47a20aa-eb34-4145-a72d-b3dac59fdda6/2ec62990-1515-41df-808a-208fb752f296"
       (reference "C20") (unit 1) (value "100 nF, 50V") (footprint "Capacitor_SMD:C_0805_2012Metric")
@@ -935,7 +939,7 @@
       (reference "K7") (unit 1) (value "SRD-05VDC-SL-C") (footprint "SRD-05VDC-SL-C-Version_2:RELAY_SRD-05VDC-SL-C")
     )
     (path "/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/6a7081b7-501a-4add-a470-2c0d3420af12"
-      (reference "L1") (unit 1) (value "47 uH") (footprint "7447709470:WE-PD_1260_1245_1280_121054")
+      (reference "L1") (unit 1) (value "47 uH") (footprint "Inductor_THT:L_Radial_D7.5mm_P5.00mm_Fastron_07P")
     )
     (path "/922c0b39-92cb-4463-9d8d-3032074eda8e/beef3009-7cac-480a-8e77-cea9adcd939b/681d5973-7300-4dcb-b183-c52c73202d3f"
       (reference "Q1") (unit 1) (value "2N7002") (footprint "Package_TO_SOT_SMD:SOT-23")
@@ -1132,11 +1136,17 @@
     (path "/9f01c8e0-a430-474f-844d-8642116cb94d/c0f213f3-1037-472b-81b9-7812041a08ba/3ce5b29f-d61a-4a23-993c-08bd6a42c3a6"
       (reference "R50") (unit 1) (value "10K, 1/8W") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
-    (path "/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/9bc164e6-e873-47da-a2ca-c09dd64582a2"
-      (reference "U1") (unit 1) (value "LM2596S-5") (footprint "Package_TO_SOT_SMD:TO-263-5_TabPin3")
+    (path "/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/730b2945-327f-4997-8ae3-e57712129934"
+      (reference "R51") (unit 1) (value "3,3K, 1/8W") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/584807d8-8a46-4f4d-8a6b-fa77a640026a"
+      (reference "R52") (unit 1) (value "10K, 1/8W") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/d9f3096b-3abf-435d-b796-b01a067f1b95"
+      (reference "U1") (unit 1) (value "LM2596S-ADJ") (footprint "LM2596SX-ADJ_NOPB:LM2596SXADJNOPB")
     )
     (path "/5f92bd8c-6854-4ae3-a1d0-b070a0d6afe8/1d996468-537d-448d-b463-fef17f9a74b3"
-      (reference "U2") (unit 1) (value "LM1117-3.3") (footprint "LM1117SX-3V3-NOPB:KTT0003B")
+      (reference "U2") (unit 1) (value "LM1117-3.3") (footprint "LM1117MPX-33NOPB:SOT230P700X180-4N")
     )
     (path "/922c0b39-92cb-4463-9d8d-3032074eda8e/b47a20aa-eb34-4145-a72d-b3dac59fdda6/a97a44f5-b6f4-4f21-8daf-f76df10ef6c3"
       (reference "U3") (unit 1) (value "MCP23008-xP") (footprint "Package_DIP:DIP-18_W7.62mm")
