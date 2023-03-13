@@ -341,19 +341,10 @@
     (uuid fda3eb11-cbd3-44f7-9419-eb72a004eaf4)
   )
 
-  (text "LISTO LAS CORRECCIONES DE FOOTPRINTS, FALTA REVISAR"
-    (at 138.43 131.445 0)
-    (effects (font (size 2.5 2.5) (thickness 0.4) bold) (justify left bottom))
-    (uuid 9f3f8512-8edf-4131-9a38-a67f43034de7)
-  )
   (text "NOTA: DEBIDO A QUE SE BUSCÓ A TODA COSTA QUE\nLA PLACA SEA DE 1 CAPA, SE TUVO QUE UTILIZAR\nEN VARIOS PUNTOS UNA UNION MEDIANTE PIN HEADERS,\nQUE LUEGO SE UNIRAN ENTRE SI MEDIANTE CABLES"
-    (at 191.135 179.07 0)
+    (at 328.93 170.815 0)
     (effects (font (size 1.75 1.75) (thickness 0.254) bold) (justify left bottom))
     (uuid dd579fc0-b213-4a01-ad27-ba6e3385f3bd)
-  )
-  (text "NOTA: FALTA VOLVER A GENERAR LOS GERBER" (at 140.335 123.19 0)
-    (effects (font (size 1.75 1.75) (thickness 0.254) bold) (justify left bottom))
-    (uuid e35a2587-8095-48b2-931b-35bf330ad8ce)
   )
 
   (symbol (lib_id "Connector:Screw_Terminal_01x02") (at 29.0068 135.5852 0) (mirror y) (unit 1)

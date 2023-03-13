@@ -67,7 +67,7 @@
       (plotframeref false)
       (viasonmask false)
       (mode 1)
-      (useauxorigin true)
+      (useauxorigin false)
       (hpglpennumber 1)
       (hpglpenspeed 20)
       (hpglpendiameter 15.000000)
@@ -81,7 +81,7 @@
       (plotinvisibletext false)
       (sketchpadsonfab false)
       (subtractmaskfromsilk false)
-      (outputformat 1)
+      (outputformat 4)
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
@@ -235,6 +235,11 @@
       (net 81 "unconnected-(K5-PadNC)") (pintype "passive+no_connect") (tstamp 9dd834d3-546a-49f0-af19-97df5bf5f346))
     (pad "NO" thru_hole circle locked (at 6.1 6 90) (size 1.98 1.98) (drill 0.4) (layers *.Cu *.Mask)
       (net 71 "Net-(J16-Pad1)") (pintype "passive") (tstamp 8215a156-a245-4d1d-98a1-a3653196f0b5))
+    (model "C:/Users/Laptop/Documents/KiCad/Footprints/SRD-05VDC-SL-C/SRD-05VDC-SL-C.step"
+      (offset (xyz 9 7.5 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 -180))
+    )
   )
 
   (footprint "TB002-500-03BE:SHDR3W100P0X500_1X3_1500X760X1000P" (layer "F.Cu")
@@ -594,10 +599,10 @@
       (net 71 "Net-(J16-Pad1)") (pinfunction "Pin_1") (pintype "passive") (tstamp 97d04173-3f7a-4210-b198-6170a623744f))
     (pad "2" thru_hole circle (at 5 0 180) (size 1.98 1.98) (drill 0.4) (layers *.Cu *.Mask)
       (net 72 "Net-(J16-Pad2)") (pinfunction "Pin_2") (pintype "passive") (tstamp 1413cbf8-1e54-4fa4-bd41-19fd19454cb5))
-    (model "TB002-500-02BE.stp"
-      (offset (xyz -2.509999953 -4.229999956 -0.009999999626))
+    (model "C:/Users/Laptop/Documents/KiCad/Footprints/LIB_TB002-500-02BE/TB002-500-02BE/3D/TB002-500-02BE.stp"
+      (offset (xyz 7.5 4.25 -0.01))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -180))
     )
   )
 
@@ -1025,6 +1030,11 @@
       (net 77 "unconnected-(K1-PadNC)") (pintype "passive+no_connect") (tstamp 39d05839-aca1-490c-aa5d-1e78074daf5e))
     (pad "NO" thru_hole circle locked (at 6.1 6 90) (size 1.98 1.98) (drill 0.4) (layers *.Cu *.Mask)
       (net 63 "Net-(J12-Pad1)") (pintype "passive") (tstamp dd40f7a0-e47e-4a2b-969d-75c90d4ae3d9))
+    (model "C:/Users/Laptop/Documents/KiCad/Footprints/SRD-05VDC-SL-C/SRD-05VDC-SL-C.step"
+      (offset (xyz 9 7.5 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 -180))
+    )
   )
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
@@ -1386,6 +1396,11 @@
       (net 78 "unconnected-(K2-PadNC)") (pintype "passive+no_connect") (tstamp 6a70ab0e-d913-42db-b177-b7a742e13967))
     (pad "NO" thru_hole circle locked (at 6.1 6 90) (size 1.98 1.98) (drill 0.4) (layers *.Cu *.Mask)
       (net 65 "Net-(J13-Pad1)") (pintype "passive") (tstamp 11fbbc96-7eb9-4072-96a6-80844780ee0c))
+    (model "C:/Users/Laptop/Documents/KiCad/Footprints/SRD-05VDC-SL-C/SRD-05VDC-SL-C.step"
+      (offset (xyz 9 7.5 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 -180))
+    )
   )
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
@@ -1784,6 +1799,11 @@
       (net 83 "unconnected-(K7-PadNC)") (pintype "passive+no_connect") (tstamp 1263ad04-0139-473b-92a6-9c1ead7e6af5))
     (pad "NO" thru_hole circle locked (at 6.1 6 90) (size 1.98 1.98) (drill 0.4) (layers *.Cu *.Mask)
       (net 75 "Net-(J18-Pad1)") (pintype "passive") (tstamp 927d95f7-ebb3-44d5-af24-73cfffde6ce2))
+    (model "C:/Users/Laptop/Documents/KiCad/Footprints/SRD-05VDC-SL-C/SRD-05VDC-SL-C.step"
+      (offset (xyz 9 7.5 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 -180))
+    )
   )
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical" (layer "F.Cu")
@@ -1933,6 +1953,11 @@
       (net 82 "unconnected-(K6-PadNC)") (pintype "passive+no_connect") (tstamp 4de83407-fc22-4062-92a1-038d38aa98c8))
     (pad "NO" thru_hole circle locked (at 6.1 6 90) (size 1.98 1.98) (drill 0.4) (layers *.Cu *.Mask)
       (net 73 "Net-(J17-Pad1)") (pintype "passive") (tstamp 798c1085-3b1d-427e-be5b-f6cda2a771a1))
+    (model "C:/Users/Laptop/Documents/KiCad/Footprints/SRD-05VDC-SL-C/SRD-05VDC-SL-C.step"
+      (offset (xyz 9 7.5 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 -180))
+    )
   )
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
@@ -2062,10 +2087,10 @@
       (net 75 "Net-(J18-Pad1)") (pinfunction "Pin_1") (pintype "passive") (tstamp 2dee011f-82f1-448a-aea7-aa88976b26ef))
     (pad "2" thru_hole circle (at 5 0 180) (size 1.98 1.98) (drill 0.4) (layers *.Cu *.Mask)
       (net 76 "Net-(J18-Pad2)") (pinfunction "Pin_2") (pintype "passive") (tstamp 3d1aa0cf-39c4-4032-a9c6-33ea2f8e0788))
-    (model "TB002-500-02BE.stp"
-      (offset (xyz -2.509999953 -4.229999956 -0.009999999626))
+    (model "C:/Users/Laptop/Documents/KiCad/Footprints/LIB_TB002-500-02BE/TB002-500-02BE/3D/TB002-500-02BE.stp"
+      (offset (xyz 7.5 4.25 -0.01))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -180))
     )
   )
 
@@ -2192,7 +2217,7 @@
     (pad "18" thru_hole oval (at 15 0 90) (size 1.6 1.6) (drill 0.4) (layers *.Cu *.Mask)
       (net 16 "+3.3V") (pinfunction "VDD") (pintype "power_in") (tstamp cdd27f2a-ad89-446b-a8d9-edea8ef0157b))
     (model "${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-18_W7.62mm.wrl"
-      (offset (xyz 0 0 0))
+      (offset (xyz 3.5 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -2238,6 +2263,11 @@
       (net 80 "unconnected-(K4-PadNC)") (pintype "passive+no_connect") (tstamp fc22c471-fa82-4380-ad94-06e6b24291b8))
     (pad "NO" thru_hole circle locked (at 6.1 6 90) (size 1.98 1.98) (drill 0.4) (layers *.Cu *.Mask)
       (net 69 "Net-(J15-Pad1)") (pintype "passive") (tstamp 2b6fba30-7aae-4443-8256-b8d5ac2b023e))
+    (model "C:/Users/Laptop/Documents/KiCad/Footprints/SRD-05VDC-SL-C/SRD-05VDC-SL-C.step"
+      (offset (xyz 9 7.5 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 -180))
+    )
   )
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
@@ -2772,10 +2802,10 @@
       (net 65 "Net-(J13-Pad1)") (pinfunction "Pin_1") (pintype "passive") (tstamp 507fa9b0-c2fa-4259-9c95-ce99eade5e00))
     (pad "2" thru_hole circle (at 5 0 180) (size 1.98 1.98) (drill 0.4) (layers *.Cu *.Mask)
       (net 66 "Net-(J13-Pad2)") (pinfunction "Pin_2") (pintype "passive") (tstamp c4276042-0c8e-490b-b48d-871a63dc07b0))
-    (model "TB002-500-02BE.stp"
-      (offset (xyz -2.509999953 -4.229999956 -0.009999999626))
+    (model "C:/Users/Laptop/Documents/KiCad/Footprints/LIB_TB002-500-02BE/TB002-500-02BE/3D/TB002-500-02BE.stp"
+      (offset (xyz 7.5 4.25 -0.01))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -180))
     )
   )
 
@@ -2953,10 +2983,10 @@
       (net 14 "/Fuentes/VIN_24V") (pinfunction "Pin_1") (pintype "passive") (tstamp 2d61b90c-f2c8-462e-8305-8fa803c50cd1))
     (pad "2" thru_hole circle (at 5 0 270) (size 1.98 1.98) (drill 0.4) (layers *.Cu *.Mask)
       (net 2 "GND") (pinfunction "Pin_2") (pintype "passive") (tstamp fa21cc25-430b-4c73-9ce2-84c9e2591f2b))
-    (model "TB002-500-02BE.stp"
-      (offset (xyz -2.509999953 -4.229999956 -0.009999999626))
+    (model "C:/Users/Laptop/Documents/KiCad/Footprints/LIB_TB002-500-02BE/TB002-500-02BE/3D/TB002-500-02BE.stp"
+      (offset (xyz 7.5 4.25 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -180))
     )
   )
 
@@ -2997,10 +3027,10 @@
       (net 67 "Net-(J14-Pad1)") (pinfunction "Pin_1") (pintype "passive") (tstamp f789b723-947d-4574-ab5e-ff92a7cc32c2))
     (pad "2" thru_hole circle (at 5 0 180) (size 1.98 1.98) (drill 0.4) (layers *.Cu *.Mask)
       (net 68 "Net-(J14-Pad2)") (pinfunction "Pin_2") (pintype "passive") (tstamp 438a80aa-7740-4aad-a57d-5b35e045954c))
-    (model "TB002-500-02BE.stp"
-      (offset (xyz -2.509999953 -4.229999956 -0.009999999626))
+    (model "C:/Users/Laptop/Documents/KiCad/Footprints/LIB_TB002-500-02BE/TB002-500-02BE/3D/TB002-500-02BE.stp"
+      (offset (xyz 7.5 4.25 -0.01))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -180))
     )
   )
 
@@ -3458,10 +3488,10 @@
       (net 69 "Net-(J15-Pad1)") (pinfunction "Pin_1") (pintype "passive") (tstamp fa3e997d-0789-4321-8495-a46450662c06))
     (pad "2" thru_hole circle (at 5 0 180) (size 1.98 1.98) (drill 0.4) (layers *.Cu *.Mask)
       (net 70 "Net-(J15-Pad2)") (pinfunction "Pin_2") (pintype "passive") (tstamp 7175dd77-af5f-45aa-aad8-6664bed941d5))
-    (model "TB002-500-02BE.stp"
-      (offset (xyz -2.509999953 -4.229999956 -0.009999999626))
+    (model "C:/Users/Laptop/Documents/KiCad/Footprints/LIB_TB002-500-02BE/TB002-500-02BE/3D/TB002-500-02BE.stp"
+      (offset (xyz 7.5 4.25 -0.01))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -180))
     )
   )
 
@@ -3502,10 +3532,10 @@
       (net 63 "Net-(J12-Pad1)") (pinfunction "Pin_1") (pintype "passive") (tstamp 73694145-10b0-4cee-8143-b86684536b7e))
     (pad "2" thru_hole circle (at 5 0 180) (size 1.98 1.98) (drill 0.4) (layers *.Cu *.Mask)
       (net 64 "Net-(J12-Pad2)") (pinfunction "Pin_2") (pintype "passive") (tstamp 5cde6b24-f6f8-4ddf-baa2-c562d4aeebbd))
-    (model "TB002-500-02BE.stp"
-      (offset (xyz -2.509999953 -4.229999956 -0.009999999626))
+    (model "C:/Users/Laptop/Documents/KiCad/Footprints/LIB_TB002-500-02BE/TB002-500-02BE/3D/TB002-500-02BE.stp"
+      (offset (xyz 7.5 4.25 -0.01))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -180))
     )
   )
 
@@ -3639,6 +3669,11 @@
       (net 79 "unconnected-(K3-PadNC)") (pintype "passive+no_connect") (tstamp 325cb581-cfd7-4232-9b09-304114fdce05))
     (pad "NO" thru_hole circle locked (at 6.1 6 90) (size 1.98 1.98) (drill 0.4) (layers *.Cu *.Mask)
       (net 67 "Net-(J14-Pad1)") (pintype "passive") (tstamp 3a34a87e-199a-44d0-bc76-db36114387f9))
+    (model "C:/Users/Laptop/Documents/KiCad/Footprints/SRD-05VDC-SL-C/SRD-05VDC-SL-C.step"
+      (offset (xyz 9 7.5 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 -180))
+    )
   )
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical" (layer "F.Cu")
@@ -3739,10 +3774,10 @@
       (net 73 "Net-(J17-Pad1)") (pinfunction "Pin_1") (pintype "passive") (tstamp 7edc98a9-766a-4e1c-98c0-d29fb877f0a4))
     (pad "2" thru_hole circle (at 5 0 180) (size 1.98 1.98) (drill 0.4) (layers *.Cu *.Mask)
       (net 74 "Net-(J17-Pad2)") (pinfunction "Pin_2") (pintype "passive") (tstamp a48bbc22-b7ec-4155-9271-556b55ee9499))
-    (model "TB002-500-02BE.stp"
-      (offset (xyz -2.509999953 -4.229999956 -0.009999999626))
+    (model "C:/Users/Laptop/Documents/KiCad/Footprints/LIB_TB002-500-02BE/TB002-500-02BE/3D/TB002-500-02BE.stp"
+      (offset (xyz 7.5 4.25 -0.01))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -180))
     )
   )
 
@@ -4459,6 +4494,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "C:/Users/Laptop/Documents/KiCad/Footprints/LIB_LM1117MPX-33NOPB/LM1117MPX-33NOPB/3D/LM1117MPX-33NOPB.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "B.Cu")
@@ -4839,6 +4879,11 @@
     (pad "2" smd rect (at 3.5 0 270) (size 2.2 3.1) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 2 "GND") (pinfunction "A") (pintype "passive") (tstamp 87860516-c1db-4813-8881-1951b7ce3fab))
     (model "B340-13-F.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "C:/Users/Laptop/Documents/KiCad/Footprints/LIB_B340-13-F/B340-13-F/3D/B340-13-F.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6934,10 +6979,10 @@
       (net 104 "Net-(R51-Pad2)") (pinfunction "FB") (pintype "input") (tstamp 080a472a-2311-45d3-915f-273d2d1c758c))
     (pad "5" smd rect (at 5.531 3.4 180) (size 1.07 2.16) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 2 "GND") (pinfunction "~{ON}/OFF") (pintype "input") (tstamp bf2fdb47-5acc-48a3-bdf1-7b11b7d89584))
-    (model "LM2596SX-ADJ_NOPB.stp"
-      (offset (xyz 0 0 0))
+    (model "C:/Users/Laptop/Documents/KiCad/Footprints/NOPB.STEP"
+      (offset (xyz -1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz -90 0 -180))
     )
   )
 
